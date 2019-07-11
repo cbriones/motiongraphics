@@ -1,4 +1,4 @@
-# CARTELERIA EN VIDEO: publicidad con movimiento
+# CARTELERÍA EN VIDEO: publicidad con movimiento
 
 Acá puedes ver algunas de las infinitas posibilidades que tienes para atraer con mayor fuerza la mirada del público hacia tus productos o servicios. 
 
