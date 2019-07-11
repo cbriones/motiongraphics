@@ -1,6 +1,6 @@
-# Welcome to GitHub Pages
+# ANUNCIO DIGITAL DINÁMICO
 
-You can use the [editor on GitHub](https://github.com/cbriones/motiongraphics/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Acá puedes ver algunas de las infinitas posibilidades que tienes para atraer con aún más fuerza la mirada del público hacia tus productos o servicios. Como valor adicional, esta tecnología permite actualizar el look de tu tienda y tu marca frente a tus clientes, con un toque extra de diseño, cuyo impacto y versatilidad supera por mucho a la gráfica tradicional estática.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
