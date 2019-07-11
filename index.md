@@ -2,9 +2,11 @@
 
 Acá puedes ver algunas de las infinitas posibilidades que tienes para atraer con mayor fuerza la mirada del público hacia tus productos o servicios. 
 
-Como valor adicional, esta tecnología te permite actualizar el look de tu tienda y tu marca frente a tus clientes, con un toque extra de diseño, cuyo impacto y versatilidad supera por mucho al de la gráfica tradicional estática.
+Como valor adicional, esta tecnología te permite actualizar el look de tu tienda y tu marca con un toque extra de diseño, cuyo impacto y versatilidad supera por mucho al de la gráfica tradicional estática. 
 
 Estos videos también son muy valiosos para mejorar tu presencia en redes sociales y dar a conocer tus ofertas, productos y servicios con un gran atractivo visual que aumenta el nivel de recordación.
+
+Mostrar ofertas de tv 4k 50"
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
