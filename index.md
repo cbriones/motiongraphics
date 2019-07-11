@@ -1,10 +1,10 @@
-# ANUNCIO DIGITAL DINÁMICO
+# VIDEO CARTELES: publicidad con movimiento
 
-Acá puedes ver algunas de las infinitas posibilidades que tienes para atraer con aún más fuerza la mirada del público hacia tus productos o servicios. 
+Acá puedes ver algunas de las infinitas posibilidades que tienes para atraer con mayor fuerza la mirada del público hacia tus productos o servicios. 
 
-Como valor adicional, esta tecnología permite actualizar el look de tu tienda y tu marca frente a tus clientes, con un toque extra de diseño, cuyo impacto y versatilidad supera por mucho a la gráfica tradicional estática.
+Como valor adicional, esta tecnología te permite actualizar el look de tu tienda y tu marca frente a tus clientes, con un toque extra de diseño, cuyo impacto y versatilidad supera por mucho al de la gráfica tradicional estática.
 
-Estos videos también son muy útiles para mejorar tu presencia en redes sociales y dar a conocer a través de esos medios tus ofertas, productos y servicios.
+Estos videos también son muy valiosos para mejorar tu presencia en redes sociales y dar a conocer tus ofertas, productos y servicios con un gran atractivo visual que aumenta el nivel de recordación.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
