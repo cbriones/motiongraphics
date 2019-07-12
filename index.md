@@ -6,7 +6,7 @@ Sumado a lo anterior, esta tecnología te permite actualizar el look de tu tiend
 
 Estos videos también son muy valiosos para mejorar tu presencia en redes sociales y dar a conocer tus ofertas. Su atractivo visual también ayuda a aumentar el nivel de conocimiento y recordación de tu marca.
 
-Las pantallas planas dejaron de ser artículos de lujo y no es inusual encontrar en el mercado pantallas de grandes dimensiones (más de 50") de alta definición (4K) por valores cercanos a los 160 mil pesos.
+Las pantallas planas dejaron de ser artículos de lujo y no es inusual encontrar en el mercado pantallas de grandes dimensiones (más de 50") de altísima definición (4K) por valores cercanos a los 160 mil pesos. Por lo tanto, dispositivos con menores prestaciones pero igualmente efectivos, pueden encontrarse a precios mucho más bajos aún.
 
 Para la reproducción de los videos basta con cualquier dispositivo que reproduzca videos en bucle (loop), vale decir, desde un celular a un computador. Si necesitas ayuda técnica para decidir qué dispositivo emplear o cómo instalarlo, puedo ofrecer orientación sin costo para dicho fin.
 
