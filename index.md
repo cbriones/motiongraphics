@@ -7,7 +7,7 @@ Sumado a lo anterior, esta tecnología te permite actualizar el look de tu tiend
 
 Estos videos también son muy valiosos para mejorar tu presencia en redes sociales y dar a conocer tus ofertas, productos y servicios con un gran atractivo visual que aumenta el nivel de recordación de tu marca.
 
-Las pantallas planas de grandes dimensiones hace un buen tiempo dejaron de ser artículos de lujo, y no es inusual encontrar en el mercado local pantallas de grandes dimensiones (más de 50") de alta definición (4K) por valores cercanos a los 160 mil pesos.
+Las pantallas planas dejaron de ser artículos de lujo, y no es inusual encontrar en el mercado local pantallas de grandes dimensiones (más de 50") de alta definición (4K) por valores cercanos a los 160 mil pesos.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
