@@ -1,10 +1,11 @@
-# CARTELERÍA PUBLICITARIA EN VIDEO
+# CARTELERÍA PUBLICITARIA DIGITAL
 
-Acá puedes apreciar algunas de las infinitas posibilidades que tienes para atraer con mucha más fuerza la atención del público hacia tus productos o servicios. 
+Acá se pueden apreciar algunas de las posibilidades que tienes para atraer la atención del público con más fuerza hacia tus productos o servicios. 
 
-Sumado a lo anterior, esta tecnología te permite actualizar el look de tu tienda con un toque extra de diseño, cuya versatilidad supera ampliamente a la impresión gráfica tradicional. Los imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que incluso puedes complementar la iluminación y la atmósfera de tus espacios.
+Sumado a lo anterior, esta tecnología actualiza el look de tu tienda, puede crear fácilmente otra sensación,  con un toque extra de diseño, cuya versatilidad supera ampliamente a la impresión gráfica tradicional. Los imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que incluso puedes complementar la iluminación y la atmósfera de tus espacios.
 
 Estos videos también son muy valiosos para potenciar tu presencia en redes sociales y dar a conocer tus ofertas. Su atractivo cinematográfico también ayuda a aumentar el nivel de conocimiento y recordación de tu marca. Si el trabajo se hace bien, nunca están de más los clientes.
+Apuntar mejor a tu público objetivo. 
 
 Las pantallas planas están increíblemente baratos, yo creo que hasta los regalan. Hoy es fácil encontrar televisores de grandes dimensiones (más de 50") de muy alta definición (4K) por valores cercanos a los 160 mil pesos. Por lo tanto, dispositivos con menores prestaciones —aunque igualmente efectivos— pueden encontrarse a precios bastante más bajos.
 
