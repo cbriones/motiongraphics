@@ -4,11 +4,11 @@ Acá puedes apreciar algunas de las infinitas posibilidades que tienes para atra
 
 Sumado a lo anterior, esta tecnología te permite actualizar el look de tu tienda con un toque extra de diseño, cuya versatilidad supera ampliamente a la impresión gráfica tradicional. Los imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que incluso puedes complementar la iluminación y la atmósfera de tus espacios.
 
-Estos videos también son muy valiosos para mejorar tu presencia en redes sociales y dar a conocer tus ofertas. Su atractivo visual también ayuda a aumentar el nivel de conocimiento y recordación de tu marca.
+Estos videos también son muy valiosos para mejorar tu presencia en redes sociales y dar a conocer tus ofertas. Su atractivo cinematográfico también ayuda a aumentar el nivel de conocimiento y recordación de tu marca.
 
-Las pantallas planas dejaron de ser artículos de lujo y no es inusual encontrar en el mercado pantallas de grandes dimensiones (más de 50") de altísima definición (4K) por valores cercanos a los 160 mil pesos. Por lo tanto, dispositivos con menores prestaciones pero igualmente efectivos, pueden encontrarse a precios mucho más bajos aún.
+Las pantallas planas dejaron de ser artículos de lujo, hoy es fácil encontrar pantallas de grandes dimensiones (más de 50") de muy alta definición (4K) por valores cercanos a los 160 mil pesos. Por lo tanto, dispositivos con menores prestaciones, aunque igualmente efectivos, pueden encontrarse a precios muchísimo más bajos.
 
-Para la reproducción de los videos basta con cualquier dispositivo que reproduzca videos en bucle (loop), vale decir, desde un celular a un computador. Si necesitas ayuda técnica para decidir qué dispositivo emplear o cómo instalarlo, puedo ofrecer orientación sin costo para dicho fin.
+Suponiendo que dispones de una o más pantallas ya instaladas en tu local, sólo necesitas contar con un dispositivo que reproduzca videos en bucle (loop), esto se puede hacer desde un celular con salida HDMI hasta un computador. Actualmente me encuentro estudiando la opción más simple y económica que sólo requiera enchufar a la pantalla un pequeño dispositivo con el video cargado en una memoria micro sd (como las de los celulares android). Si tienes cierta familiaridad con la tecnología esto no debiese ser necesario, pero en caso contrario, puedes contar con mi ayuda para elegir e instalar la mejor opción de acuerdo a las necesidades de tu negocio.                    .
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
