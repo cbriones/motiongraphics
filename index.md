@@ -1,7 +1,7 @@
 # CARTELERÍA EN VIDEO
 ## MOTION GRAPHICS
 
-Acá puedes ver algunas de las infinitas posibilidades que tienes para atraer con mucha más fuerza la mirada del público hacia tus productos o servicios. 
+Acá puedes ver algunas de las infinitas posibilidades que tienes para atraer con mucha más fuerza la atención del público hacia tus productos o servicios. 
 
 Sumado a lo anterior, esta tecnología te permite actualizar el look de tu tienda con un toque extra de diseño, cuyo impacto y versatilidad supera ampliamente a la impresión gráfica tradicional. Los imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que puedes complementar la iluminación y la atmósfera de tus espacios.
 
