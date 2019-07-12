@@ -4,9 +4,9 @@ Acá puedes apreciar algunas de las infinitas posibilidades que tienes para atra
 
 Sumado a lo anterior, esta tecnología te permite actualizar el look de tu tienda con un toque extra de diseño, cuyo impacto y versatilidad supera ampliamente a la impresión gráfica tradicional. Los imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que puedes complementar la iluminación y la atmósfera de tus espacios.
 
-Estos videos también son muy valiosos para mejorar tu presencia en redes sociales y dar a conocer tus ofertas, productos y servicios con un gran atractivo visual que aumenta el nivel de conocimiento y recordación de tu marca.
+Estos videos también son muy valiosos para mejorar tu presencia en redes sociales y dar a conocer tus ofertas. Su atractivo visual también ayuda a aumentar el nivel de conocimiento y recordación de tu marca.
 
-Las pantallas planas dejaron de ser artículos de lujo, y no es inusual encontrar en el mercado local pantallas de grandes dimensiones (más de 50") de alta definición (4K) por valores cercanos a los 160 mil pesos.
+Las pantallas planas dejaron de ser artículos de lujo y no es inusual encontrar en el mercado pantallas de grandes dimensiones (más de 50") de alta definición (4K) por valores cercanos a los 160 mil pesos.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
