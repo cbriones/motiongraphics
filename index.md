@@ -2,7 +2,7 @@
 
 Acá se pueden apreciar algunas de las posibilidades que tienes para atraer la atención del público con más fuerza hacia tus productos o servicios. 
 
-Sumado a lo anterior, esta tecnología actualiza el look de tu tienda, puede crear fácilmente otra sensación,  con un toque extra de diseño, cuya versatilidad supera ampliamente a la impresión gráfica tradicional. Los imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que incluso puedes complementar la iluminación y la atmósfera de tus espacios.
+Sumado a lo anterior, esta tecnología bien utilizada, actualiza el look de tu tienda, puede crear fácilmente otra sensación,  con un toque extra de diseño, cuya versatilidad supera ampliamente a la impresión gráfica tradicional. Los imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que incluso puedes complementar la iluminación y la atmósfera de tus espacios.
 
 Estos videos también son muy valiosos para potenciar tu presencia en redes sociales y dar a conocer tus ofertas. Su atractivo visual también ayuda a aumentar el nivel de conocimiento y recordación de tu marca. 
 
