@@ -1,5 +1,4 @@
 # CARTELERÍA EN VIDEO
-## MOTION GRAPHICS
 
 Acá puedes ver algunas de las infinitas posibilidades que tienes para atraer con mucha más fuerza la atención del público hacia tus productos o servicios. 
 
