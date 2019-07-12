@@ -1,4 +1,4 @@
-# CARTELERÍA EN VIDEO
+# CARTELERÍA PUBLICITARIA EN VIDEO
 
 Acá puedes apreciar algunas de las infinitas posibilidades que tienes para atraer con mucha más fuerza la atención del público hacia tus productos o servicios. 
 
