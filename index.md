@@ -4,13 +4,15 @@ Acá se pueden apreciar algunas de las posibilidades que tienes para atraer la a
 
 Sumado a lo anterior, esta tecnología actualiza el look de tu tienda, puede crear fácilmente otra sensación,  con un toque extra de diseño, cuya versatilidad supera ampliamente a la impresión gráfica tradicional. Los imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que incluso puedes complementar la iluminación y la atmósfera de tus espacios.
 
-Estos videos también son muy valiosos para potenciar tu presencia en redes sociales y dar a conocer tus ofertas. Su atractivo cinematográfico también ayuda a aumentar el nivel de conocimiento y recordación de tu marca. Si el trabajo se hace bien, nunca están de más los clientes.
-Apuntar mejor a tu público objetivo. 
+Estos videos también son muy valiosos para potenciar tu presencia en redes sociales y dar a conocer tus ofertas. Su atractivo visual también ayuda a aumentar el nivel de conocimiento y recordación de tu marca. 
 
-Las pantallas planas están increíblemente baratos, yo creo que hasta los regalan. Hoy es fácil encontrar televisores de grandes dimensiones (más de 50") de muy alta definición (4K) por valores cercanos a los 160 mil pesos. Por lo tanto, dispositivos con menores prestaciones —aunque igualmente efectivos— pueden encontrarse a precios bastante más bajos.
+[Si el trabajo se hace bien, nunca están de más los clientes.]
+[Apuntar mejor a tu público objetivo.]
 
-Mi propuesta de valor es la creación de un video como los que se pueden ver acá arriba.U
-Mientras lo vaya creando, te iré enviando previews previsualizar el video durante el proceso en que lo vaya desarrollando, recibiendo tu feedback hasta que llegue el momento de su "revelado digital" (en jerga computacional se le llama rendering).video el que podrás descargar, reproducir y compartir sin ninguna restricción. 
+Hoy, las pantallas planas son productos de un precio increíblemente bajo en relación a su calidad. Hoy es fácil encontrar televisores de grandes dimensiones (más de 50") de muy alta definición (4K) por valores cercanos a los 160 mil pesos. Por lo tanto, dispositivos con menores prestaciones —aunque igualmente efectivos— pueden encontrarse a precios bastante más bajos.
+
+Mi propuesta de valor es la siguiente: creación de un video como los que se pueden ver acá arriba adaptado a la estética de tu negocio, considerando tu presupuesto.
+Mientras lo vaya creando, te iré enviando previews previsualizar el video durante el proceso en que lo vaya desarrollando, recibiendo tu feedback hasta que llegue el momento de su "revelado digital" (rendering, en jerga computacional).video el que podrás descargar, reproducir y compartir sin ninguna clase de restricciones. El video es de tu propiedad.
 
 La situación ideal para entregarte el producto en el menor tiempo y costo posible supone que ya dispones de:
 1. una o más pantallas instaladas en tu local
