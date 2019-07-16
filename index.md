@@ -11,7 +11,7 @@ Finalmente, su alta definición permite la exhibición en pantallas gigantes, ho
 ## Cómo funciona
 1. Usa la galería como punto de partida para que te inspires y puedas decidirte por una o más animaciones que crees que podrían adaptarse mejor a las necesidades de tu negocio.
 2. Me contactas para que podamos analizar tus requerimientos específicos y me envíes tus logos, tus gráficas y el texto con la información sobre los productos que quieras promocionar.
-3. Te hago entrega de el o los presupuestos y espero hasta que le des tu aprobación.
+3. Te hago entrega de uno o más presupuestos y espero hasta recibir tu aprobación.
 4. En no más de una semana te envíó una _vista previa_ de tu animación. Si quedas conforme y previo pago del monto acordado en el punto 3, podrás descargar el video en formato de alta definición, dando así por terminado el proceso.
 5. Si no quedas conforme con la _vista previa_, analizamos los cambios para volver al punto 4 tantas veces como sea necesario hasta llevar el proceso a su conclusión.
 
