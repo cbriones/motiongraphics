@@ -9,13 +9,13 @@ Estas animaciones también son muy valiosas para potenciar la presencia de tu ne
 Finalmente, su alta definición permite la exhibición en pantallas gigantes, hoy toda una tendencia publicitaria en espacios públicos de alta concurrencia. 
 
 ## Cómo funciona
-1. Usa la galería como punto de partida para inspirarte y puedas decidir por una o más animaciones que consideres que podrían adaptarse mejor a las necesidades de tu negocio.
+1. Usa la galería como punto de partida para inspirarte y puedas decidir por una o más animaciones que consideres que puedan adaptarse a las necesidades de tu negocio.
 2. Me contactas para que analicemos tus requerimientos específicos y me envíes tus logos, tus gráficas y el texto con la información sobre los productos que quieras promocionar.
 3. Te hago entrega de uno o más presupuestos y espero hasta recibir tu aprobación.
-4. En no más de una semana te envíó una _vista previa_ de tu animación. Si quedas conforme y previo pago del monto acordado en el punto 3, podrás descargar el video en formato de alta definición, dando así por terminado el proceso.
+4. Dentro de una semana te envíó una _vista previa_ de tu animación. Si quedas conforme y previo pago del monto acordado en el punto 3, podrás descargar el video en formato de alta definición, dando así por terminado el proceso.
 5. Si no quedas conforme con la _vista previa_, analizamos los cambios para volver al punto 4 tantas veces como sea necesario hasta llevar el proceso a su conclusión.
 
-La animación consiste en un archivo de video (formato MP4 o equivalente) el que podrás descargar, reproducir, compartir y publicar sin ninguna clase de restricciones. El video pasa a ser de tu propiedad.
+La animación consiste en un archivo de video el que podrás descargar, reproducir, compartir y publicar sin ninguna clase de restricciones. El video pasa a ser de tu propiedad.
 
 ## Equipamiento
 La situación ideal para entregarte el producto en el menor tiempo y costo posible supone que ya dispones de:
