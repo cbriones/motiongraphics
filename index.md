@@ -19,8 +19,8 @@ La animación consiste en un archivo de video (formato MP4 o equivalente) el que
 
 ## Equipamiento
 La situación ideal para entregarte el producto en el menor tiempo y costo posible supone que ya dispones de:
-1. una o más pantallas instaladas en tu local
-2. un reproductor de video con salida HDMI (puede ser un computador o incluso un celular con salida HDMI).
+- una o más pantallas instaladas en tu local
+- un reproductor de video con salida HDMI (puede ser un computador o incluso un celular con salida HDMI).
 
 Si uno de estos ítems falla, estaré encantado de resolver tus dudas, asesorarte en la compra e instalación de los equipos y acompañarte en cada etapa del proceso. No dudes en consultar. 
 
