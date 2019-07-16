@@ -2,14 +2,14 @@
 
 En esta galería se pueden apreciar algunas de las posibilidades para atraer con más fuerza la atención del público hacia tus productos o servicios. 
 
-Esta tecnología mejora el look de tu tienda. Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que incluso puedes complementar la iluminación y decoración de tus espacios.
+La versatilidad y atractivo de este producto supera ampliamente a la impresión gráfica tradicional. Las imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que puedes darle un toque final a la decoración de tus espacios.
 
-Estas animaciones también son muy valiosas para potenciar la presencia de tu negocio en redes sociales y dar a conocer tus ofertas. Su atractivo visual también ayuda a aumentar el nivel de conocimiento y recordación de tu marca.
+Estas animaciones también son muy valiosas para potenciar la presencia de tu negocio en redes sociales y dar a conocer tus ofertas. Su atractivo visual también ayudan a aumentar el nivel de conocimiento y recordación de tu marca.
 
-Finalmente, su alta definición permite la exhibición en pantallas gigantes, hoy cada vez más presente en espacios públicos de alta concurrencia. 
+Finalmente, su alta definición permite la exhibición en pantallas gigantes de exteriores, hoy cada vez más presentes en avenidas y otros espacios públicos de alta concurrencia. 
 
 ## Cómo funciona
-1. Usa la galería como punto de partida para inspirarte y elijas una o más animaciones que se puedan adaptar a tu negocio.
+1. Usa la galería como punto de partida para inspirarte y elijas una o más animaciones que se puedan adaptar a tu negocio. Si tienes el link de otro video que te gustaría emular, me lo envías.
 2. Me contactas para que analicemos tus requerimientos específicos y me envíes tus logos, tus gráficas y el texto con la información sobre los productos que quieras promocionar.
 3. Te hago entrega de uno o más presupuestos y espero hasta recibir tu aprobación.
 4. Dentro de una semana te envío una _vista previa_ de tu animación. Si quedas conforme, transfieres el monto acordado en el punto 3 a mi cuenta para luego descargar el video en formato de alta definición, dando por finalizado el proceso.
