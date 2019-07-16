@@ -5,7 +5,7 @@ Acá se pueden apreciar algunas de las posibilidades disponibles para atraer con
 Esta tecnología mejora el look de tu tienda. Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que incluso puedes complementar la iluminación de tus espacios.
 
 Estas animaciones también son muy valiosas para potenciar la presencia de tu negocio en redes sociales y dar a conocer tus ofertas. Su atractivo visual también ayuda a aumentar el nivel de conocimiento y recordación de tu marca.
-Su alta definición, permite la exhibición en pantallas gigantes, hoy toda una tendencia en publicidad en espacios públicos. 
+Su alta definición permite la exhibición en pantallas gigantes, hoy toda una tendencia publicitaria en espacios públicos. 
 
 ## Cómo funciona:
 1. Usa la galería como punto de partida para que te inspires y puedas decidirte por una o más animaciones que crees que podrían adaptarse mejor a las necesidades de tu negocio.
