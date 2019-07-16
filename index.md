@@ -25,7 +25,7 @@ La situación ideal para entregarte el producto en el menor tiempo y costo posib
 Si alguno de estos dos ítems falla, estaré encantado de resolver tus dudas, asesorarte en la compra e instalación de los equipos y acompañarte en cada etapa del proceso. No dudes en consultar. 
 
 ### Pantallas
-Actualmente las pantallas planas son productos de un precio sorprendentemente bajo en relación a su calidad. Es fácil encontrar televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico) por valores cercanos a los 160 mil pesos. Por lo tanto, dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios aún más bajos.
+Actualmente las pantallas planas son productos de un precio sorprendentemente bajo en relación a su calidad. Es fácil encontrar televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) por valores cercanos a los 160 mil pesos. Por lo tanto, dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios aún más bajos.
 
 
 
