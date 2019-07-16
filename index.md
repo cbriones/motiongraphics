@@ -1,6 +1,6 @@
 # CARTELERÍA PUBLICITARIA DIGITAL
 
-Acá se pueden apreciar algunas de las posibilidades disponibles para atraer con más fuerza la atención del público hacia tus productos o servicios. 
+En esta galeríá se pueden apreciar algunas de las posibilidades para atraer con más fuerza la atención del público hacia tus productos o servicios. 
 
 Esta tecnología mejora el look de tu tienda. Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que incluso puedes complementar la iluminación de tus espacios.
 
@@ -12,7 +12,7 @@ Su alta definición permite la exhibición en pantallas gigantes, hoy toda una t
 2. Me contactas para que podamos analizar tus requerimientos específicos y me envíes tus logos, tus gráficas y el texto con la información sobre los productos que quieras promocionar.
 3. Te hago entrega de el o los presupuestos y espero hasta que le des tu aprobación.
 4. En no más de una semana te envíó una _vista previa_ de tu animación. Si quedas conforme y previo pago del monto acordado en el punto 3, podrás descargar el video en formato de alta definición, dando así por terminado el proceso.
-5- Si no quedas completamente conforme con la _vista previa_, analizamos los cambios para volver al punto 4 tantas veces como sea necesario hasta llevarlo a su conclusión.
+5. Si no quedas completamente conforme con la _vista previa_, analizamos los cambios para volver al punto 4 tantas veces como sea necesario hasta llevarlo a su conclusión.
 
 La animación consiste en un archivo de video (formato MP4 o equivalente) el que podrás descargar, reproducir, compartir y publicar sin ninguna clase de restricciones. El video pasa a ser de tu propiedad.
 
