@@ -2,9 +2,10 @@
 
 Acá se pueden apreciar algunas de las posibilidades disponibles para atraer con más fuerza la atención del público hacia tus productos o servicios. 
 
-Esta tecnología mejora el look de tu tienda. Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Los imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que incluso puedes complementar la iluminación y la atmósfera de tus espacios.
+Esta tecnología mejora el look de tu tienda. Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que incluso puedes complementar la iluminación de tus espacios.
 
-Estas animaciones también son muy valiosas para potenciar la presencia de tu negocio en redes sociales y dar a conocer tus ofertas. Su atractivo visual también ayuda a aumentar el nivel de conocimiento y recordación de tu marca. 
+Estas animaciones también son muy valiosas para potenciar la presencia de tu negocio en redes sociales y dar a conocer tus ofertas. Su atractivo visual también ayuda a aumentar el nivel de conocimiento y recordación de tu marca.
+Su alta definición, permite su exhibición en pantallas gigantes, hoy toda una tendencia en publicidad en espacios públicos. 
 
 ## Equipamiento
 Actualmente las pantallas planas son productos de un precio sorprendentemente bajo en relación a su calidad. Es fácil encontrar televisores de grandes dimensiones (más de 50") de muy alta definición (4K) por valores cercanos a los 160 mil pesos. Por lo tanto, dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios aún más bajos.
@@ -14,18 +15,18 @@ La creación de una animación con el mismo estándar de calidad que se muestra 
 Recomiendo usar la galería como punto de partida para que te inspires y puedas decidirte por el o los videos que crees que podrían adaptarse mejor a las necesidades de tu negocio.
 
 Cómo funciona:
-1. Usa la galería como punto de partida para que te inspires y puedas decidirte por el o las animaciones que crees que podrían adaptarse mejor a las necesidades de tu negocio.
-2. Me contactas para que podamos analizar tus requerimientos específicos y me envíes tus logos, tus gráficas y la información sobre los productos que quieras promocionar.
-3. Te hago entrega de el o los presupuestos espero hasta recibir tu aprobación.
-4. En no más de una semana, te envíó una _vista previa_ de tu animación la que si te satisface, podrás descargar en formato de alta definición, previo pago del monto acordado en el punto 3, dando con esto término al proceso.
-5- Si no quedas completamente conforme con la _vista previa_, analizamos los cambios para volver al punto 4 tantas veces como sea necesario para llevarlo a su conclusión.
+1. Usa la galería como punto de partida para que te inspires y puedas decidirte por una o más animaciones que crees que podrían adaptarse mejor a las necesidades de tu negocio.
+2. Me contactas para que podamos analizar tus requerimientos específicos y me envíes tus logos, tus gráficas y el texto con la información sobre los productos que quieras promocionar.
+3. Te hago entrega de el o los presupuestos y espero hasta que le des tu aprobación.
+4. En no más de una semana te envíó una _vista previa_ de tu animación. Si quedas conforme y previo pago del monto acordado en el punto 3, podrás descargar el video en formato de alta definición, dando así por terminado el proceso.
+5- Si no quedas completamente conforme con la _vista previa_, analizamos los cambios para volver al punto 4 tantas veces como sea necesario hasta llevarlo a su conclusión.
 
-La animación consiste en un archivo de video (formato MP4 o equivalente) el que podrás descargar, reproducir y compartir sin ninguna clase de restricciones. El video pasa a ser de tu propiedad.
+La animación consiste en un archivo de video (formato MP4 o equivalente) el que podrás descargar, reproducir, compartir y publicar sin ninguna clase de restricciones. El video pasa a ser de tu propiedad.
 
 La situación ideal para entregarte el producto en el menor tiempo y costo posible supone que ya dispones de:
 1. una o más pantallas instaladas en tu local
 2. un reproductor de video con salida HDMI (puede ser un computador o incluso un celular con salida HDMI).
-Si alguno de estos ítems falla, estaré encantado de resolver tus dudas, asesorarte en la compra e instalación de los equipos y acompañarte en cada etapa del proceso.
+Si alguno de estos ítems falla, estaré encantado de resolver tus dudas, asesorarte en la compra e instalación de los equipos y acompañarte en cada etapa del proceso. No dudes en consultar.
 
 
 
