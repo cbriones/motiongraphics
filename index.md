@@ -7,13 +7,6 @@ Esta tecnología mejora el look de tu tienda. Su versatilidad y atractivo supera
 Estas animaciones también son muy valiosas para potenciar la presencia de tu negocio en redes sociales y dar a conocer tus ofertas. Su atractivo visual también ayuda a aumentar el nivel de conocimiento y recordación de tu marca.
 Su alta definición, permite la exhibición en pantallas gigantes, hoy toda una tendencia en publicidad en espacios públicos. 
 
-## Equipamiento
-Actualmente las pantallas planas son productos de un precio sorprendentemente bajo en relación a su calidad. Es fácil encontrar televisores de grandes dimensiones (más de 50") de muy alta definición (4K) por valores cercanos a los 160 mil pesos. Por lo tanto, dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios aún más bajos.
-
-Mi propuesta de valor:
-La creación de una animación con el mismo estándar de calidad que se muestra en la galería. 
-Recomiendo usar la galería como punto de partida para que te inspires y puedas decidirte por el o los videos que crees que podrían adaptarse mejor a las necesidades de tu negocio.
-
 ## Cómo funciona:
 1. Usa la galería como punto de partida para que te inspires y puedas decidirte por una o más animaciones que crees que podrían adaptarse mejor a las necesidades de tu negocio.
 2. Me contactas para que podamos analizar tus requerimientos específicos y me envíes tus logos, tus gráficas y el texto con la información sobre los productos que quieras promocionar.
@@ -28,6 +21,12 @@ La situación ideal para entregarte el producto en el menor tiempo y costo posib
 2. un reproductor de video con salida HDMI (puede ser un computador o incluso un celular con salida HDMI).
 Si alguno de estos ítems falla, estaré encantado de resolver tus dudas, asesorarte en la compra e instalación de los equipos y acompañarte en cada etapa del proceso. No dudes en consultar.
 
+## Equipamiento
+Actualmente las pantallas planas son productos de un precio sorprendentemente bajo en relación a su calidad. Es fácil encontrar televisores de grandes dimensiones (más de 50") de muy alta definición (4K, estándar cinematográfico) por valores cercanos a los 160 mil pesos. Por lo tanto, dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios aún más bajos.
+
+Mi propuesta de valor:
+La creación de una animación con el mismo estándar de calidad que se muestra en la galería. 
+Recomiendo usar la galería como punto de partida para que te inspires y puedas decidirte por el o los videos que crees que podrían adaptarse mejor a las necesidades de tu negocio.
 
 
 
