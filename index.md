@@ -5,7 +5,7 @@ Acá se pueden apreciar algunas de las posibilidades disponibles para atraer con
 Esta tecnología mejora el look de tu tienda. Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que incluso puedes complementar la iluminación de tus espacios.
 
 Estas animaciones también son muy valiosas para potenciar la presencia de tu negocio en redes sociales y dar a conocer tus ofertas. Su atractivo visual también ayuda a aumentar el nivel de conocimiento y recordación de tu marca.
-Su alta definición, permite su exhibición en pantallas gigantes, hoy toda una tendencia en publicidad en espacios públicos. 
+Su alta definición, permite la exhibición en pantallas gigantes, hoy toda una tendencia en publicidad en espacios públicos. 
 
 ## Equipamiento
 Actualmente las pantallas planas son productos de un precio sorprendentemente bajo en relación a su calidad. Es fácil encontrar televisores de grandes dimensiones (más de 50") de muy alta definición (4K) por valores cercanos a los 160 mil pesos. Por lo tanto, dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios aún más bajos.
