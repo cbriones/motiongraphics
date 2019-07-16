@@ -1,6 +1,6 @@
 # CARTELERÍA PUBLICITARIA DIGITAL
 
-En esta galeríá se pueden apreciar algunas de las posibilidades para atraer con más fuerza la atención del público hacia tus productos o servicios. 
+En esta galería se pueden apreciar algunas de las posibilidades para atraer con más fuerza la atención del público hacia tus productos o servicios. 
 
 Esta tecnología mejora el look de tu tienda. Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que incluso puedes complementar la iluminación y decoración de tus espacios.
 
