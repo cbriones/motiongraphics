@@ -14,7 +14,7 @@ Mi propuesta de valor:
 La creación de una animación con el mismo estándar de calidad que se muestra en la galería. 
 Recomiendo usar la galería como punto de partida para que te inspires y puedas decidirte por el o los videos que crees que podrían adaptarse mejor a las necesidades de tu negocio.
 
-Cómo funciona:
+## Cómo funciona:
 1. Usa la galería como punto de partida para que te inspires y puedas decidirte por una o más animaciones que crees que podrían adaptarse mejor a las necesidades de tu negocio.
 2. Me contactas para que podamos analizar tus requerimientos específicos y me envíes tus logos, tus gráficas y el texto con la información sobre los productos que quieras promocionar.
 3. Te hago entrega de el o los presupuestos y espero hasta que le des tu aprobación.
