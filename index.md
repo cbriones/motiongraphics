@@ -18,7 +18,7 @@ La alta definición de estas imágenes permite la exhibición en pantallas gigan
 La animación consiste en un archivo de video el que podrás descargar, reproducir, compartir y publicar sin ninguna clase de restricciones. El video pasa a ser de tu propiedad.
 
 ## Equipamiento
-La situación ideal para entregarte el producto en el menor tiempo y costo posible supone que ya dispones de:
+La situación ideal para entregarte el producto final en el menor tiempo y costo posible supone que ya dispones de:
 - Una o más pantallas instaladas en tu local
 - Un reproductor de video con salida HDMI (puede ser un computador o incluso un celular con salida HDMI).
 
