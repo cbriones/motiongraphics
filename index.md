@@ -1,6 +1,6 @@
 # CARTELERÍA Y AVISAJE DIGITAL
 
-En esta galería se muestran algunas posibilidades de esta tecnología para atraer la atención del público. Si quieres informar o cautivar a las audiencias, la animación digital es la herramienta más efectiva que existe actualmente.
+En esta galería se muestran algunas posibilidades que ofrece esta tecnología para atraer la atención del público. Si quieres informar o cautivar audiencias, la animación digital es la herramienta más efectiva que existe en el momento.
 
 La versatilidad y atractivo de la cartelería digital supera ampliamente a la impresión gráfica tradicional. Las imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que también se puede realzar la iluminación y decoración de los espacios comerciales.
 
