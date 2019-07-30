@@ -9,12 +9,17 @@ Por otro lado, estas animaciones son herramientas de gran valor para potenciar l
 Finalmente, la alta definición de estos videos permite exhibir tu mensaje en pantallas gigantes de exteriores, las que se pueden ver con cada vez más frecuencia en centros comerciales, avenidas y toda clase de espacios públicos de alta concurrencia. 
 
 ## Cómo funciona
-**1.** Usa la galería como punto de partida para que te inspires y elijas una o más animaciones que se adapten a tu negocio. 
-2. Te pones en contacto (vía correo electrónico, Whatsapp o teléfono) para analizar tus requerimientos específicos, envíes tus logos, tus gráficas y el texto con la información sobre los productos que quieras promocionar.
-3. Recibes uno o más presupuestos con los tiempos estimados de entrega. 
-4. Analizas las propuestas y eventualemente confirmas la puesta en marcha del proyecto.
-5. Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja definición. Si quedas conforme, transfieres el monto acordado en el punto **3** y descargas la versión final en alta definición, lo que da por concluído el proceso de forma exitosa.
-6. Si no quedas conforme con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto **5** tantas veces como sea necesario hasta concluir el proceso exitosamente.
+**[1]** Usa la galería como punto de partida para que te inspires y elijas una o más animaciones que se adapten a tu negocio. 
+
+**[2]** Te pones en contacto (vía correo electrónico, Whatsapp o teléfono) para analizar tus requerimientos específicos, envíes tus logos, tus gráficas y el texto con la información sobre los productos que quieras promocionar.
+
+**[3]** Recibes uno o más presupuestos con los tiempos estimados de entrega. 
+
+**[4]** Analizas las propuestas y eventualemente confirmas la puesta en marcha del proyecto.
+
+**[5]** Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja definición. Si quedas conforme, transfieres el monto acordado en el punto **3** y descargas la versión final en alta definición, lo que da por concluído el proceso de forma exitosa.
+
+**[6]** Si no quedas conforme con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto **5** tantas veces como sea necesario hasta concluir el proceso exitosamente.
 
 **El producto final consiste en un archivo de video el que podrás descargar, reproducir, compartir y publicar sin ninguna clase de restricciones.**
 
