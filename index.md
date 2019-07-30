@@ -2,7 +2,7 @@
 
 En esta galería se muestran algunas posibilidades que ofrecen las nuevas tecnologías para atraer la atención de tus clientes con una fuerza irresistible. Si quieres informar y cautivar al público, la animación digital es la herramienta más efectiva que existe actualmente en el mercado.
 
-Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento y en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que puedes darle un _look_ más actual y dinámico a tu negocio.
+Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento y en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que puedes darle un _look_ más actual a tu negocio.
 
 Por otro lado, estas animaciones son herramientas valiosas para potenciar la presencia de tu negocio y dar a conocer tus ofertas en redes sociales. Su atractivo visual aumenta el nivel de conocimiento y recordación de tu marca.
 
