@@ -25,7 +25,7 @@ Para ahorrar el costo inicial, puedes reproducir los videos usando un computador
 
 Para simplificar esta tarea, puedes adquirir con tu primera compra un dispositivo electrónico implementado exclusivamente para esta tarea. El aparato tiene un consumo muy bajo, es discreto (más pequeño que un teléfono inteligente) y comienza a funcionar con tan solo conectarlo a una pantalla. Cuando quieras cambiar la animación sólo necesitas cargar un nuevo video en su memoria externa (memoria micro SD). El valor de este mini reproductor ronda los $40.000 
 
-Estoy muy interesado en ver como estas nuevas tecnologías le ayudan a tu negocio llegar a más clientes y mejorar tu comunicación con ellos. Por eso, no dudes en solicitar ayuda en la compra e instalación de los equipos en cada etapa del proceso.
+Estoy muy interesado en ver como estas nuevas tecnologías ayudan a tu negocio a llegar a más clientes y mejorar tu comunicación con ellos. Por eso, no dudes en solicitar ayuda en la compra e instalación de los equipos en cada etapa del proceso para que podamos ver este proyecto hecho realidad.
 
 ### Sobre las pantallas
 Actualmente las pantallas planas se encuentran a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) por valores cercanos a los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios todavía más bajos.
