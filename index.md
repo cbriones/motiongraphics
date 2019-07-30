@@ -26,9 +26,9 @@ Finalmente, la alta definición de estos videos permite exhibir tu mensaje en pa
 ## Equipamiento
 La situación ideal para que recibas el producto final en el menor tiempo y costo posible supone que ya dispones de una o más televisores de pantalla plana instalados en tu negocio y alguna clase de reproductor multimedia.
 
-Si necesitas ahorrar en el costo inicial, se puede usar como reproductor multimedia un computador conectado al televisor de pantalla plana, aunque a la larga esta no es la solución más práctica ni mucho menos la más elegante.
+Si necesitas ahorrar en el costo inicial, es posible usar un computador conectado al televisor como reproductor multimedia, aunque a la larga esta no es la solución más práctica ni mucho menos la más elegante.
 
-Para simplificar esta tarea, pongo a tu disposición un dispositivo electrónico diseñado exclusivamente para este propósito. Este aparato tiene un consumo muy bajo, es muy discreto (más pequeño que un teléfono inteligente) y funciona de manera automática al ser conectado a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria (memoria extraíble tipo micro SD). El valor de este dispositivo ronda los $40.000.
+Para simplificar esta tarea, pongo a tu disposición un dispositivo electrónico diseñado exclusivamente para este propósito. Este aparato de bajo consumo, y más pequeño que un teléfono inteligente, funciona de manera automática al ser conectado a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria (memoria extraíble tipo micro SD). El valor de este dispositivo ronda los $40.000.
 
 **Estoy muy interesado en ver como estas nuevas tecnologías ayudan a tu negocio a llegar a más clientes y mejorar tu comunicación con ellos. Por eso, no dudes en solicitar asesoría en cada etapa del proceso.**
 
