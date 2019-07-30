@@ -35,7 +35,7 @@ La situación ideal para que puedas comenzar a usar esta herramienta publicitari
 
 Si necesitas ahorrar en el costo inicial, es posible usar un computador (que actuará como reproductor multimedia) conectado a la pantalla plana, aunque se advierte que esta no es la solución más práctica ni mucho menos la más elegante.
 
-Para simplificar esta tarea, se pone a tu disposición un dispositivo electrónico diseñado exclusivamente para este propósito. Este aparato de bajo consumo y más pequeño que un teléfono inteligente, funciona de manera automática al ser conectado a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria (memoria extraíble tipo SD). Este dispositivo tiene un valor de $45.000.
+Para simplificar esta tarea, está disponible para la venta un dispositivo electrónico diseñado exclusivamente para este propósito. Este aparato de bajo consumo y más pequeño que un teléfono inteligente, funciona de manera automática con tan sólo conectarlo a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria (memoria extraíble tipo SD). Este dispositivo tiene un valor de $45.000.
 
 **Estoy muy interesado en ver cómo estas nuevas tecnologías comienzan a aumentar tus ventas y mejoran la comunicación de tu mensaje hacia el público. Por eso, no dudes en solicitar asesoría en cada etapa del proceso, esto es, desde la cotización y la instalación de las pantallas en adelante.**
 
