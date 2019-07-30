@@ -26,11 +26,11 @@ Finalmente, la alta definición de estos videos permite exhibir tu mensaje en pa
 ## Equipamiento
 La situación ideal para que recibas el producto final en el menor tiempo y costo posible supone que ya dispones de una o más pantallas instaladas en tu negocio.
 
-Para ahorrar en el costo inicial, puedes reproducir los videos usando un computador conectado a una pantalla, aunque a la larga esta no sea la solución más práctica ni mucho menos la más elegante.
+Si necesitas ahorrar en el costo inicial, puedes reproducir los videos usando un computador conectado a una pantalla, aunque a la larga esta no es la solución más práctica ni mucho menos la más elegante.
 
-Para simplificar esta tarea, pongo a tu disposición un dispositivo electrónico diseñado exclusivamente para este propósito. Este aparato tiene un consumo muy bajo, es muy discreto (más pequeño que un teléfono inteligente) y funciona con tan solo conectarlo a una pantalla. Cuando quieras cambiar la animación, simplemente se carga un nuevo video en su memoria (memoria extraíble micro SD). El valor de este dispositivo ronda los $40.000.
+Para simplificar esta tarea, pongo a tu disposición un dispositivo electrónico diseñado exclusivamente para este propósito. Este aparato tiene un consumo muy bajo, es muy discreto (más pequeño que un teléfono inteligente) y funciona automáticamente al conectarlo a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria (memoria extraíble tipo micro SD). El valor de este dispositivo ronda los $40.000.
 
-**Tengo un gran interés en ver como estas nuevas tecnologías te ayudan a llegar a más clientes y mejorar tu comunicación con ellos. Por eso, no dudes en solicitar asesoría en cada etapa del proceso.**
+**Estoy muy interesado en ver como estas nuevas tecnologías ayudan a tu negocio a llegar a más clientes y mejorar tu comunicación con ellos. Por eso, no dudes en solicitar asesoría en cada etapa del proceso.**
 
 ### Sobre las pantallas
 Actualmente las pantallas planas se encuentran a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) a precios muy por debajo de los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios todavía más bajos.
