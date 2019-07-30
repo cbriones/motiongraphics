@@ -37,7 +37,7 @@ Si necesitas ahorrar en el costo inicial, es posible usar un computador (que act
 
 Para simplificar esta tarea, está disponible para la venta un dispositivo electrónico diseñado exclusivamente para este propósito. Este aparato de bajo consumo y más pequeño que un teléfono inteligente, funciona de manera automática con tan sólo conectarlo a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria (memoria extraíble tipo SD). Este dispositivo tiene un valor de $45.000.
 
-**Estoy muy interesado en ver cómo estas nuevas tecnologías comienzan a aumentar tus ventas y mejoran la comunicación de tu mensaje hacia el público. Por eso, no dudes en solicitar asesoría en cada etapa del proceso, esto es, desde la cotización y la instalación de las pantallas en adelante.**
+**Estoy muy interesado en ver cómo estas nuevas tecnologías mejoran la percepción de tu imagen de marca, aumentan la efectividad de tu mensaje hacia el público y cómo ello se traduce en el crecimiento de tu negocio. Por eso, no dudes en solicitar asesoría en cada etapa del proceso, esto es, desde la cotización y la instalación de las pantallas en adelante.**
 
 ### Sobre las pantallas
 Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar ofertas de televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) a precios muy por debajo de los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios todavía más bajos. Básicamente, cualquier televisor con entrada HDMI es compatible con la Cartelería Digital.
