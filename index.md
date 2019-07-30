@@ -23,7 +23,7 @@ La situación ideal para que recibas el producto final en el menor tiempo y cost
 
 Para ahorrar en el costo inicial, puedes reproducir los videos usando un computador conectado a una pantalla, aunque a la larga esta no sea la solución más práctica ni mucho menos la más elegante.
 
-Para simplificar esta tarea, puedes adquirir con tu primera compra un dispositivo electrónico implementado exclusivamente para esta tarea. El aparato tiene un consumo muy bajo, es discreto (más pequeño que un teléfono inteligente) y comienza a funcionar con tan solo conectarlo a una pantalla. Cuando quieras cambiar la animación sólo necesitas cargar un nuevo video en su memoria externa (memoria micro SD). El valor de este mini reproductor ronda los $40.000 
+Para simplificar esta tarea, puedes adquirir con tu primera compra un dispositivo electrónico diseñado exclusivamente para este propósito. Este aparato tiene un consumo muy bajo, es muy discreto (más pequeño que un teléfono inteligente) y funciona con tan solo conectarlo a una pantalla. Cuando quieras cambiar la animación sólo necesitas cargar un nuevo video en su memoria (memoria extraíble micro SD). El valor de este dispositivo ronda los $40.000 
 
 **Tengo un gran interés en ver como estas nuevas tecnologías ayudan a tu negocio a llegar a más clientes y mejorar tu comunicación con ellos. Por eso, no dudes en solicitar ayuda en la compra e instalación de los equipos en cada etapa del proceso.**
 
