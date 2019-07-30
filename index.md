@@ -13,8 +13,8 @@ La alta definición de estas imágenes permite también exhibir tu mensaje en pa
 2. Te pones en contacto (vía correo electrónico, Whatsapp o teléfono) para analizar tus requerimientos específicos, envíes tus logos, tus gráficas y el texto con la información sobre los productos que quieras promocionar.
 3. Recibes uno o más presupuestos con los tiempos estimados de entrega. 
 4. Analizas las propuestas y eventualemente confirmas la puesta en marcha del proyecto.
-5. Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja definición. Si quedas conforme, transfieres el monto acordado en el punto **3** y descargas la versión final en alta definición, lo que da por concluído el proceso de manera exitosa.
-6. Si no quedas conforme con la **_vista previa_**, analizamos los cambios que haya que hacer para volver al punto **5** tantas veces como sea necesario hasta concluir el proceso de manera exitosa.
+5. Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja definición. Si quedas conforme, transfieres el monto acordado en el punto **3** y descargas la versión final en alta definición, lo que da por concluído el proceso de forma exitosa.
+6. Si no quedas conforme con la **_vista previa_**, analizamos los cambios que haya que hacer para volver al punto **5** tantas veces como sea necesario hasta concluir el proceso exitosamente.
 
 **La animación consiste en un archivo de video el que podrás descargar, reproducir, compartir y publicar sin ninguna clase de restricciones. El video pasa a ser de tu exclusiva propiedad.**
 
