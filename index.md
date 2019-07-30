@@ -23,7 +23,7 @@ Finalmente, la alta definición de estos videos permite exhibir tu mensaje en pa
 
 **[6]** Si no quedas conforme con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto **[5]** tantas veces como sea necesario hasta concluir el proceso exitosamente.
 
-**El producto final consiste en un archivo de video el que podrás publicar sin ninguna clase de restricciones.**
+**El producto final consiste en un archivo de video que podrás publicar sin ninguna clase de restricciones.**
 
 ## Equipamiento
 La situación ideal para comenzar a usar el producto final en el menor tiempo y costo posible supone que ya dispones de una o más televisores de pantalla plana instalados en tu negocio y alguna clase de reproductor multimedia.
