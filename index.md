@@ -6,7 +6,7 @@ Si quieres cautivar al público y aumentar tus ventas, la animación digital es 
 
 Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento y alta definición permiten reproducciones en proyectores y pantallas de grandes dimensiones con las que puedes poner al día el _look_ de tu negocio.
 
-Por otro lado, estas animaciones son herramientas valiosas para potenciar la presencia de tu negocio en redes sociales y promocionar tus ofertas. Su gran atractivo visual te ayudará a aumentar el nivel de conocimiento y recordación de tu marca.
+Por otro lado, estas animaciones son herramientas valiosas para potenciar la presencia de tu negocio en redes sociales y promocionar ofertas entre tus seguidores. Su gran atractivo visual te ayudará a aumentar el nivel de conocimiento y recordación de tu marca.
 
 Finalmente, la alta definición de estos videos permite exhibir tu mensaje en pantallas gigantes de exterior, las que se pueden ver con cada vez más frecuencia en centros comerciales, avenidas y toda clase de espacios públicos de alta concurrencia. 
 
