@@ -1,4 +1,4 @@
-# CARTELERÍA Y AVISAJE DIGITAL
+# CARTELERÍA DIGITAL
 
 En esta galería se muestran algunas posibilidades que ofrece las nuevas tecnologías para atraer la atención de tus clientes. Si quieres informar o cautivar audiencias, la animación digital es la herramienta más efectiva que existe actualmente.
 
