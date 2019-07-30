@@ -4,7 +4,7 @@ En esta galería se muestran algunas posibilidades que ofrecen las nuevas tecnol
 
 Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que puedes darle un _look_ actual y dinámico a tu negocio.
 
-Por otro lado, estas animaciones son herramientas de gran valor en redes sociales para potenciar la presencia de tu negocio y dar a conocer tus ofertas. Su atractivo visual aumenta el nivel de conocimiento y recordación de tu marca.
+Por otro lado, estas animaciones son herramientas de gran valor para potenciar la presencia de tu negocio y dar a conocer tus ofertas en redes sociales. Su atractivo visual aumenta el nivel de conocimiento y recordación de tu marca.
 
 La alta definición de estas imágenes permite también exhibir tu mensaje en pantallas gigantes de exteriores, las que se pueden ver con cada vez más frecuencia en centros comerciales, avenidas y toda clase de espacios públicos de alta concurrencia. 
 
