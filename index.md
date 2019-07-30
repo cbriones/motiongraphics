@@ -19,7 +19,7 @@ Finalmente, la alta definición de estos videos permite exhibir tu mensaje en pa
 
 **[4]** Evalúas las propuestas y eventualmente confirmas la puesta en marcha del proyecto.
 
-**[5]** Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja definición. Si quedas conforme, transfieres el monto acordado en el punto **[3]** y descargas la versión final en alta definición, lo que da por concluído el proceso de forma exitosa.
+**[5]** Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja resolución. Si quedas conforme, transfieres el monto acordado en el punto **[3]**, momento a partir del cual se genera la versión final en alta resolución, la que posteriormente podrás descargar, dando así por concluído el proceso de forma exitosa.
 
 **[6]** Si no quedas conforme con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto **[5]** tantas veces como sea necesario hasta concluir el proceso exitosamente.
 
@@ -30,10 +30,10 @@ La situación ideal para comenzar a usar el producto final en el menor tiempo y 
 
 Si necesitas ahorrar en el costo inicial, es posible usar un computador a modo de reproductor multimedia, conectándolo al televisor, aunque a la larga esta no es la solución más práctica ni mucho menos la más elegante.
 
-Para simplificar esta tarea, pongo a tu disposición un dispositivo electrónico diseñado exclusivamente para este propósito. Este aparato de bajo consumo y más pequeño que un teléfono inteligente, funciona de manera automática al ser conectado a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria (memoria extraíble tipo micro SD). El valor de este dispositivo ronda los $40.000.
+Para simplificar esta tarea, pongo a tu disposición un dispositivo electrónico diseñado exclusivamente para este propósito. Este aparato de bajo consumo y más pequeño que un teléfono inteligente, funciona de manera automática al ser conectado a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria (memoria extraíble tipo SD). Este dispositivo tiene un valor de $45.000.
 
 **Estoy muy interesado en ver como estas nuevas tecnologías ayudan a tu negocio a llegar a más clientes y mejorar tu comunicación con ellos. Por eso, no dudes en solicitar asesoría en cada etapa del proceso, esto es, desde la cotización y la instalación de las pantallas en adelante.**
 
 ### Sobre las pantallas
-Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) a precios muy por debajo de los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios todavía más bajos.
+Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar ofertas de televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) a precios muy por debajo de los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios todavía más bajos.
 
