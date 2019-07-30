@@ -2,7 +2,7 @@
 
 En esta galería se muestran algunas posibilidades que ofrecen las nuevas tecnologías para atraer la atención de tus clientes. Si quieres informar y cautivar audiencias, la animación digital es la herramienta más efectiva que existe actualmente.
 
-La versatilidad y atractivo de la cartelería digital supera ampliamente a la impresión gráfica tradicional. Las imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que puedes darle un toque actual y dinámico a la decoración de tu negocio.
+Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en alta definición permiten reproducciones en pantallas de grandes dimensiones con las que puedes darle un toque actual y dinámico a la decoración de tu negocio.
 
 Por otro lado, estas animaciones son herramientas de gran valor en redes sociales para potenciar la presencia de tu negocio y dar a conocer tus ofertas. Su atractivo visual aumenta el nivel de conocimiento y recordación de tu marca.
 
