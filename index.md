@@ -28,7 +28,7 @@ La situación ideal para que recibas el producto final en el menor tiempo y cost
 
 Si necesitas ahorrar en el costo inicial, es posible usar un computador conectado al televisor como reproductor multimedia, aunque a la larga esta no es la solución más práctica ni mucho menos la más elegante.
 
-Para simplificar esta tarea, pongo a tu disposición un dispositivo electrónico diseñado exclusivamente para este propósito. Este aparato de bajo consumo, y más pequeño que un teléfono inteligente, funciona de manera automática al ser conectado a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria (memoria extraíble tipo micro SD). El valor de este dispositivo ronda los $40.000.
+Para simplificar esta tarea, pongo a tu disposición un dispositivo electrónico diseñado exclusivamente para este propósito. Este aparato de bajo consumo y más pequeño que un teléfono inteligente, funciona de manera automática al ser conectado a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria (memoria extraíble tipo micro SD). El valor de este dispositivo ronda los $40.000.
 
 **Estoy muy interesado en ver como estas nuevas tecnologías ayudan a tu negocio a llegar a más clientes y mejorar tu comunicación con ellos. Por eso, no dudes en solicitar asesoría en cada etapa del proceso.**
 
