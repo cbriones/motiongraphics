@@ -2,26 +2,26 @@
 
 En esta galería se muestran algunas posibilidades que ofrecen las nuevas tecnologías para atraer la atención de tus clientes con una fuerza casi irresistible.
 
-Si quieres informar, cautivar al público y aumentar tus ventas, la animación digital es una de las herramientas más efectivas que existen actualmente en el mercado.
+Si quieres cautivar al público y aumentar tus ventas, la animación digital es una de las herramientas más efectivas que existen actualmente en el mercado.
 
-Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento y en alta definición permiten reproducciones en proyectores y pantallas de grandes dimensiones con las que puedes poner al día el _look_ de tu negocio.
+Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento y alta definición permiten reproducciones en proyectores y pantallas de grandes dimensiones con las que puedes poner al día el _look_ de tu negocio.
 
 Por otro lado, estas animaciones son herramientas valiosas para potenciar la presencia de tu negocio en redes sociales y promocionar tus ofertas. Su gran atractivo visual te ayudará a aumentar el nivel de conocimiento y recordación de tu marca.
 
 Finalmente, la alta definición de estos videos permite exhibir tu mensaje en pantallas gigantes de exterior, las que se pueden ver con cada vez más frecuencia en centros comerciales, avenidas y toda clase de espacios públicos de alta concurrencia. 
 
 ## Cómo funciona
-**[1]** Te recomiendo usar la galería como punto de partida para que te inspires y elijas una o más animaciones que se adapten a tu negocio, o bien, si ya tienes algo en mente, puedes crear algunos bosquejos o recopilar links de imágenes y videos de Internet.
+**[1]** Te recomiendo usar la galería como punto de partida para que te inspires y elijas una o más animaciones que se adapten a tu negocio, o bien, si ya tienes algo en mente, puedes crear algunos bosquejos o recopilar links de imágenes y videos de Internet que te parezcan atractivos.
 
-**[2]** Te pones en contacto (vía correo electrónico, Whatsapp o teléfono) para analizar tus requerimientos específicos, enviar tus logos, tus gráficas y el texto con la información sobre los productos que quieras promocionar.
+**[2]** Te pones en contacto (vía correo electrónico, Whatsapp o teléfono) para analizar tus requerimientos específicos, enviar tus links, tus gráficas y el texto con la información sobre los productos que quieras promocionar.
 
 **[3]** Recibes uno o más presupuestos con los tiempos estimados de entrega. 
 
 **[4]** Evalúas las propuestas y eventualmente confirmas la puesta en marcha del proyecto.
 
-**[5]** Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja resolución. Si quedas conforme, transfieres el monto acordado en el punto **[4]**, momento a partir del cual se genera la versión final en alta resolución que quedará disponible para que desargues, dando así por concluído el proceso de forma exitosa.
+**[5]** Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja resolución. Si quedas conforme, transfieres el monto acordado en el punto **[4]**, momento a partir del cual se genera la versión final en alta resolución que quedará disponible para que descargues, dando así por finalizado el proceso de forma exitosa.
 
-**[6]** Si no quedas totalmente satisfecho con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto **[5]** tantas veces como sea necesario hasta concluir el proceso exitosamente.
+**[6]** Si no quedas totalmente satisfecho con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto **[5]** tantas veces como sea necesario hasta finalizar el proceso exitosamente.
 
 **El producto final consiste en un archivo de video que podrás publicar sin ninguna clase de restricciones.**
 
@@ -35,7 +35,5 @@ Para simplificar esta tarea, se pone a tu disposición un dispositivo electróni
 **Estoy muy interesado en ver cómo estas nuevas tecnologías comienzan a aumentar tus ventas y mejoran la comunicación de tu mensaje hacia el público. Por eso, no dudes en solicitar asesoría en cada etapa del proceso, esto es, desde la cotización y la instalación de las pantallas en adelante.**
 
 ### Sobre las pantallas
-Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar ofertas de televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) a precios muy por debajo de los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios todavía más bajos.
-
-Básicamente, cualquier televisor con entrada HDMI es compatible con este producto.
+Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar ofertas de televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) a precios muy por debajo de los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios todavía más bajos. Básicamente, cualquier televisor con entrada HDMI es compatible con la Cartelería Digital.
 
