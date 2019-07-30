@@ -37,3 +37,5 @@ Para simplificar esta tarea, se pone a tu disposición un dispositivo electróni
 ### Sobre las pantallas
 Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar ofertas de televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) a precios muy por debajo de los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios todavía más bajos.
 
+Básicamente, cualquier televisor con entrada HDMI es compatible con este producto.
+
