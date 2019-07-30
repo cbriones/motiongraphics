@@ -16,7 +16,7 @@ La alta definición de estas imágenes permite también exhibir tu mensaje en pa
 5. Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja definición. Si quedas conforme, transfieres el monto acordado en el punto **3** y descargas la versión final en alta definición, lo que da por concluído el proceso de forma exitosa.
 6. Si no quedas conforme con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto **5** tantas veces como sea necesario hasta concluir el proceso exitosamente.
 
-**La animación consiste en un archivo de video el que podrás descargar, reproducir, compartir y publicar sin ninguna clase de restricciones. El video pasa a ser de tu exclusiva propiedad.**
+**El producto final consiste en un archivo de video el que podrás descargar, reproducir, compartir y publicar sin ninguna clase de restricciones.**
 
 ## Equipamiento
 La situación ideal para entregarte el producto final en el menor tiempo y costo posible supone que ya dispones de una o más pantallas instaladas en tu local.
