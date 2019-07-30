@@ -19,9 +19,9 @@ La alta definición de estas imágenes permite también exhibir tu mensaje en pa
 **El producto final consiste en un archivo de video el que podrás descargar, reproducir, compartir y publicar sin ninguna clase de restricciones.**
 
 ## Equipamiento
-La situación ideal para entregarte el producto final en el menor tiempo y costo posible supone que ya dispones de una o más pantallas instaladas en tu local.
+La situación ideal para que recibas el producto final en el menor tiempo y costo posible supone que ya dispones de una o más pantallas instaladas en tu local.
 
-Para ahorrar en el costo inicial, puedes reproducir los videos usando un computador conectado a la pantalla, aunque a la larga no sea la solución más práctica ni mucho menos la más elegante.
+Para ahorrar en el costo inicial, puedes reproducir los videos usando un computador conectado a una pantalla, aunque a la larga esta no sea la solución más práctica ni mucho menos la más elegante.
 
 Para simplificar esta tarea, puedes adquirir con tu primera compra un dispositivo electrónico implementado exclusivamente para esta tarea. El aparato tiene un consumo muy bajo, es discreto (más pequeño que un teléfono inteligente) y comienza a funcionar con tan solo conectarlo a una pantalla. Cuando quieras cambiar la animación sólo necesitas cargar un nuevo video en su memoria externa (memoria micro SD). El valor de este mini reproductor ronda los $40.000 
 
