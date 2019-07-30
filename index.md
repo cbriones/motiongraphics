@@ -28,5 +28,5 @@ Para simplificar esta tarea, puedes adquirir con tu primera compra un dispositiv
 Tengo un gran interés en ver como estas nuevas tecnologías ayudan a tu negocio a llegar a más clientes y mejorar tu comunicación con ellos. Por eso, no dudes en solicitar ayuda en la compra e instalación de los equipos en cada etapa del proceso.
 
 ### Sobre las pantallas
-Actualmente las pantallas planas se encuentran a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) por valores cercanos a los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios todavía más bajos.
+Actualmente las pantallas planas se encuentran a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) a precios muy por debajo de los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios todavía más bajos.
 
