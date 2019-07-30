@@ -19,7 +19,7 @@ Finalmente, la alta definición de estos videos permite exhibir tu mensaje en pa
 
 **[4]** Evalúas las propuestas y eventualmente confirmas la puesta en marcha del proyecto.
 
-**[5]** Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja resolución. Si quedas conforme, transfieres el monto acordado en el punto **[4]**, momento a partir del cual se genera la versión final en alta resolución, la que posteriormente podrás descargar, dando así por concluído el proceso de forma exitosa.
+**[5]** Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja resolución. Si quedas conforme, transfieres el monto acordado en el punto **[4]**, momento a partir del cual se genera la versión final en alta resolución que quedará disponible para ser descargada, dando así por concluído el proceso de forma exitosa.
 
 **[6]** Si no quedas conforme con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto **[5]** tantas veces como sea necesario hasta concluir el proceso exitosamente.
 
