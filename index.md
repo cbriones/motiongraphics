@@ -15,7 +15,7 @@ Finalmente, la alta definición de estos videos permite exhibir tu mensaje en pa
 
 **[3]** Recibes uno o más presupuestos con los tiempos estimados de entrega. 
 
-**[4]** Evalúas las propuestas y eventualemente confirmas la puesta en marcha del proyecto.
+**[4]** Evalúas las propuestas y eventualmente confirmas la puesta en marcha del proyecto.
 
 **[5]** Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja definición. Si quedas conforme, transfieres el monto acordado en el punto **[3]** y descargas la versión final en alta definición, lo que da por concluído el proceso de forma exitosa.
 
