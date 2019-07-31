@@ -11,7 +11,7 @@ Si quieres cautivar al público y aumentar tus ventas, la animación digital es 
 
 Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento y alta definición permiten reproducciones en proyectores y pantallas de grandes dimensiones con las que puedes poner al día el _look_ de tu negocio.
 
-Por otro lado, estas animaciones son herramientas valiosas para potenciar la presencia de tu negocio en redes sociales y promocionar ofertas entre tus seguidores. Su gran atractivo visual te ayudará a aumentar el nivel de conocimiento y recordación de tu marca.
+Por otro lado, estas animaciones son herramientas valiosas para potenciar la presencia de tu negocio en redes sociales y promocionar ofertas entre tus seguidores. Su atractivo visual ayuda a aumentar el nivel de conocimiento y recordación de tu marca.
 
 Finalmente, la alta definición de estos videos permite exhibir tu mensaje en pantallas gigantes de exterior, las que se pueden ver con cada vez más frecuencia en centros comerciales, avenidas y toda clase de espacios públicos de alta concurrencia. 
 
@@ -42,6 +42,8 @@ Para simplificar esta tarea, está disponible para la venta un dispositivo elect
 ### Sobre las pantallas
 Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar ofertas de televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) a precios muy por debajo de los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios todavía más bajos. Básicamente, cualquier televisor con entrada HDMI es compatible con la Cartelería Digital.
 
-<iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
-width="160" height="90" frameborder="0" ></iframe>
+## Valores
+
+100 lucas algo autoadministrable... ultra basico en html5
+60 lucas la animación, pa no baratearla tanto, onofre?
 
