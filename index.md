@@ -30,6 +30,8 @@ Finalmente, la alta definición de estos videos permite exhibir tu mensaje en pa
 
 **El producto final consiste en un archivo de video que podrás publicar sin ninguna clase de restricciones.**
 
+![image](https://user-images.githubusercontent.com/16393716/62242266-c3101700-b3a8-11e9-8502-3f346cec7d1f.png)
+
 ## Equipamiento
 La situación ideal para que puedas comenzar a usar esta herramienta publicitaria en el menor tiempo y costo posible supone que ya dispones de uno o más televisores de pantalla plana instalados en tu negocio y alguna clase de reproductor multimedia.
 
