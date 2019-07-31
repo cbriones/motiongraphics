@@ -1,13 +1,13 @@
 # CARTELERÍA DIGITAL
 
-En esta galería se muestran algunas posibilidades que ofrecen las nuevas tecnologías para atraer la atención de tus clientes con una fuerza casi irresistible.
+En la galería siguiente se muestran algunas posibilidades que ofrecen las nuevas tecnologías para atraer la atención de tus clientes con una fuerza casi irresistible.
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
 width="160" height="90" frameborder="0" ></iframe>
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
 width="160" height="90" frameborder="0" ></iframe>
 
 
-Si quieres cautivar al público y aumentar tus ventas, la animación digital es una de las herramientas más efectivas que existen actualmente en el mercado.
+La animación digital es una de las herramientas más efectivas que existen actualmente en el mercado para cautivar al público y aumentar tus ventas.
 
 Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento y alta definición permiten reproducciones en proyectores y pantallas de grandes dimensiones con las que puedes poner al día el _look_ de tu negocio.
 
