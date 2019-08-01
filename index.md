@@ -1,5 +1,5 @@
 # GALERÍA
-Inspírate con las posibilidades que te ofrece esta tecnología para atraer la atención de tus clientes con una fuerza casi irresistible. Es muy probable que más de alguno de estos videos se adapte a las necesidades de tu negocio.
+Inspírate con las posibilidades que ofrece esta tecnología. La atracción hacia el movimiento es instintiva. Atrae la atención de **tu público** de manera irresistible. Es muy probable que más de alguno de estos videos se adapte a las necesidades de tu negocio, elige uno, o varios.
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
 width="160" height="90" frameborder="0" ></iframe>
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
