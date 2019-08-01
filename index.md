@@ -37,7 +37,7 @@ Para reproducir los videos en tus pantallas, he configurado un mini computador e
 
 En el corto plazo, usando este mismo aparato también podrás optar a la posibilidad de programar su contenido vía Internet lo que te permitirá actualizarlo en función del horario, el día de la semana y los cambios de temporada. Este aparato tiene un valor comercial de $87.000, pero por ahora lo ofrezco a un precio de lanzamiento de $57.000.
 
-Si quieres reducir este costo, puedes usar un notebook conectado a una pantalla como reproductor de video, aunque al poco andar te podrás dar cuenta que esta alternativa no es la más práctica ni mucho menos la más elegante.
+Si quieres reducir este costo, puedes usar un notebook conectado a una pantalla como reproductor de video, aunque al poco andar te vas a dar cuenta que esta alternativa no es la más práctica ni mucho menos la más elegante.
 
 **Estoy muy interesado en ver cómo la Cartelería Digital mejora la percepción de tu imagen de marca, aumentan la efectividad de tu mensaje hacia el público y cómo todo esto se traduce en el crecimiento de tu negocio. Por favor, no dudes en darme tu _feedback_ y solicitarme asesoría en cada etapa del proceso, esto es, a partir de la cotización y la instalación de las pantallas en adelante.**
 
