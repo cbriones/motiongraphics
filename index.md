@@ -1,18 +1,17 @@
 # GALERÍA
-A continuación se muestran algunas posibilidades que ofrece esta tecnología para atraer la atención de tus clientes con una fuerza irresistible.
+Inspírate con las posibilidades que te ofrece esta tecnología para atraer la atención de tus clientes con una fuerza casi irresistible. Es muy probable que más de alguno de estos videos se adapte a las necesidades de tu negocio.
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
 width="160" height="90" frameborder="0" ></iframe>
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
 width="160" height="90" frameborder="0" ></iframe>
 
+La animación digital es una de las herramientas más efectivas que existen en el mercado para cautivar al público con tu mensaje y aumentar tus ventas.
 
-La animación digital es una de las herramientas más efectivas que existen actualmente en el mercado para cautivar al público con tu mensaje y aumentar tus ventas.
+Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento en alta definición permiten reproducciones en proyectores y pantallas de grandes dimensiones con las que puedes poner al día tanto la decoración de tus instalaciones como tu imagen de marca.
 
-Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento en alta definición permiten reproducciones en proyectores y pantallas de grandes dimensiones con las que puedes poner al día el _look_ de tus instalaciones y tu imagen de marca.
+Por otro lado, estas animaciones son herramientas valiosas para potenciar la presencia de tu negocio en redes sociales y promocionar ofertas entre tus seguidores o usando publicidad pagada. Su atractivo visual ayuda a aumentar el nivel de conocimiento y recordación de tu marca.
 
-Por otro lado, estas animaciones son herramientas valiosas para potenciar la presencia de tu negocio en redes sociales y promocionar ofertas entre tus seguidores o mediante publicidad pagada. Su atractivo visual ayuda a aumentar el nivel de conocimiento y recordación de tu marca.
-
-Finalmente, la alta definición de estos videos permite exhibir tu mensaje en pantallas gigantes de exterior, las que se pueden ver con mayor frecuencia en centros comerciales, avenidas principales y toda clase de espacios públicos de alta concurrencia. 
+Finalmente, la alta definición de estos videos también permite exhibir tu mensaje en pantallas gigantes de exterior, las que se pueden ver con mayor frecuencia en centros comerciales, avenidas principales y toda clase de espacios públicos de alta concurrencia. 
 
 ## ¿CÓMO FUNCIONA?
 **[1]** Te recomiendo usar la galería como punto de partida para que te inspires y elijas una o más animaciones que se adapten a tu negocio, o bien, si ya tienes algo en mente, puedes crear algunos bosquejos o recopilar links de imágenes y videos de Internet que te parezcan atractivos.
