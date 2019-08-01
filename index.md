@@ -32,13 +32,13 @@ Finalmente, la alta definición de estos videos permite exhibir tu mensaje en pa
 ![image](https://user-images.githubusercontent.com/16393716/62242266-c3101700-b3a8-11e9-8502-3f346cec7d1f.png)
 
 ## Equipamiento
-La situación ideal para que puedas comenzar a usar esta herramienta publicitaria en el menor tiempo y costo posible supone que ya dispones de uno o más televisores de pantalla plana instalados en tu negocio y alguna clase de reproductor multimedia.
+La situación ideal para que puedas disfrutar de tu Cartel Digital en el menor tiempo posible, supone que ya dispones de uno o más televisores de pantalla plana instalados en tu negocio y alguna clase de reproductor multimedia.
 
 Si necesitas ahorrar en el costo inicial, es posible usar un computador (que actuará como reproductor multimedia) conectado a la pantalla plana, aunque se advierte que esta no es la solución más práctica ni mucho menos la más elegante.
 
-Para simplificar esta tarea, está disponible para la venta un dispositivo electrónico diseñado exclusivamente para este propósito. Este aparato de bajo consumo y más pequeño que un teléfono inteligente, funciona de manera automática con tan sólo conectarlo a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria (memoria extraíble tipo SD). Este dispositivo tiene un valor de $45.000.
+Para reproducir los videos en tus pantallas, he implementado un dispositivo electrónico exclusivamente para este propósito. Este aparato de bajo consumo y más pequeño que un teléfono inteligente, funciona de manera automática con tan sólo conectarlo a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria (memoria extraíble tipo SD). Este dispositivo tiene un valor de $45.000.
 
-**Estoy muy interesado en ver cómo estas nuevas tecnologías mejoran la percepción de tu imagen de marca, aumentan la efectividad de tu mensaje hacia el público y cómo ello se traduce en el crecimiento de tu negocio. Por eso, no dudes en solicitar asesoría en cada etapa del proceso, esto es, desde la cotización y la instalación de las pantallas en adelante.**
+**Estoy muy interesado en ver cómo estas nuevas tecnologías mejoran la percepción de tu imagen de marca, aumentan la efectividad de tu mensaje hacia el público y cómo todo eso se traduce en el crecimiento de tu negocio. Por lo tanto, no dudes en solicitar asesoría en cada etapa del proceso, esto es, desde la cotización y la instalación de las pantallas en adelante.**
 
 ### Sobre las pantallas
 Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar ofertas de televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) a precios muy por debajo de los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios todavía más bajos. Básicamente, cualquier televisor con entrada HDMI es compatible con la Cartelería Digital.
@@ -46,5 +46,7 @@ Actualmente los televisores de pantalla plana se pueden encontrar a precios sorp
 ## Valores
 
 100 lucas algo autoadministrable... ultra basico en html5
-60 lucas la animación, pa no baratearla tanto, onofre?
+
+40 lucas, una básica, genérica, que me demore 1 hora en hacerla en mi tarro
+animación custom... 1 palo
 
