@@ -38,7 +38,7 @@ Para reproducir los videos en tus pantallas, he configurado un mini computador e
 
 En el corto plazo, usando este mismo aparato también podrás optar a la posibilidad de programar su contenido vía Internet lo que te permitirá actualizarlo en función del horario, el día de la semana y los cambios de temporada. Este aparato tiene un valor comercial de $87.000, pero lo ofrezco a un precio de lanzamiento de $57.000.
 
-**Estoy muy interesado en ver cómo estas nuevas tecnologías mejoran la percepción de tu imagen de marca, aumentan la efectividad de tu mensaje hacia el público y cómo todo eso se traduce en el crecimiento de tu negocio. Por lo tanto, no dudes en solicitar asesoría en cada etapa del proceso, esto es, desde la cotización y la instalación de las pantallas en adelante.**
+**Estoy muy interesado en ver cómo estas nuevas tecnologías mejoran la percepción de tu imagen de marca, aumentan la efectividad de tu mensaje hacia el público y cómo todo esto se traduce en el crecimiento de tu negocio. Por favor, no dudes en darme tu _feedback_ y solicitarme asesoría en cada etapa del proceso, esto es, desde la cotización y la instalación de las pantallas en adelante.**
 
 ### Sobre las pantallas
 Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar ofertas de televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) a precios muy por debajo de los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios todavía más bajos. Lo importante es que cualquier televisor con entrada HDMI es compatible con la Cartelería Digital, sin importar su antigüedad.
