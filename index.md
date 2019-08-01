@@ -9,7 +9,7 @@ La animación digital es una de las herramientas más efectivas que existen en e
 
 Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento en alta definición permiten reproducciones en proyectores y pantallas de grandes dimensiones con las que puedes poner al día al mismo tiempo la decoración de tus instalaciones como tu imagen de marca.
 
-Por otro lado, estas animaciones son herramientas valiosas para potenciar la presencia de tu negocio en redes sociales, haciendo promoción de ofertas entre tus seguidores o usando publicidad pagada. Su atractivo visual ayuda a aumentar el nivel de conocimiento y recordación de tu marca.
+Por otro lado, estas animaciones son herramientas valiosas para potenciar la presencia de tu negocio en redes sociales, haciendo promoción de ofertas entre tus seguidores o mediante publicidad pagada. Su atractivo visual ayuda a aumentar el nivel de conocimiento y recordación de tu marca.
 
 Finalmente, la alta definición de estos videos también permite exhibir tu mensaje en pantallas gigantes de exterior, las que se pueden ver con mayor frecuencia en centros comerciales, avenidas principales y toda clase de espacios públicos de alta concurrencia. 
 
