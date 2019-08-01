@@ -1,5 +1,5 @@
 # GALERÍA
-Á continuación se muestran algunas posibilidades que ofrecen las nuevas tecnologías para atraer la atención de tus clientes con una fuerza casi irresistible.
+A continuación se muestran algunas posibilidades que ofrecen las nuevas tecnologías para atraer la atención de tus clientes con una fuerza casi irresistible.
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
 width="160" height="90" frameborder="0" ></iframe>
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
