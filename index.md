@@ -23,7 +23,7 @@ Finalmente, la alta definición de estos videos permite exhibir tu mensaje en pa
 
 **[4]** Evalúas las propuestas y eventualmente confirmas la puesta en marcha del proyecto.
 
-**[5]** Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja resolución. Si quedas conforme, transfieres el monto acordado en el punto **[4]**, momento a partir del cual se genera la versión final en alta resolución que quedará disponible para que la descargues, finalizando así el proceso de forma exitosa.
+**[5]** Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja resolución. Si quedas conforme, transfieres el monto acordado en el punto **[4]**, momento a partir del cual se genera la versión final en alta resolución, la que quedará disponible para ser descargada, finalizando así el proceso de forma exitosa.
 
 **[6]** Si no quedas totalmente satisfecho con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto **[5]** tantas veces como sea necesario hasta finalizar el proceso exitosamente.
 
@@ -36,9 +36,11 @@ La situación ideal para que puedas disfrutar de tu Cartel Digital en el menor t
 
 Para reproducir los videos en tus pantallas, he configurado un mini computador exclusivamente para este propósito. Este dispositivo de bajo consumo y más pequeño que un teléfono inteligente, funciona de manera automática con tan sólo conectarlo a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria SD.
 
-En el corto plazo, usando este mismo aparato también podrás optar a la posibilidad de programar su contenido vía Internet lo que te permitirá actualizarlo en función del horario, el día de la semana y los cambios de temporada. Este aparato tiene un valor comercial de $87.000, pero lo ofrezco a un precio de lanzamiento de $57.000.
+En el corto plazo, usando este mismo aparato también podrás optar a la posibilidad de programar su contenido vía Internet lo que te permitirá actualizarlo en función del horario, el día de la semana y los cambios de temporada. Este aparato tiene un valor comercial de $87.000, pero por ahora lo ofrezco a un precio de lanzamiento de $57.000.
 
-**Estoy muy interesado en ver cómo estas nuevas tecnologías mejoran la percepción de tu imagen de marca, aumentan la efectividad de tu mensaje hacia el público y cómo todo esto se traduce en el crecimiento de tu negocio. Por favor, no dudes en darme tu _feedback_ y solicitarme asesoría en cada etapa del proceso, esto es, desde la cotización y la instalación de las pantallas en adelante.**
+Si quieres reducir este costo, puedes usar un notebook conectado a una pantalla como reproductor de video, aunque al poco andar te podrás dar cuenta que esta alternativa no es la más práctica ni mucho menos la más elegante.
+
+**Estoy muy interesado en ver cómo la Cartelería Digital mejora la percepción de tu imagen de marca, aumentan la efectividad de tu mensaje hacia el público y cómo todo esto se traduce en el crecimiento de tu negocio. Por favor, no dudes en darme tu _feedback_ y solicitarme asesoría en cada etapa del proceso, esto es, a partir de la cotización y la instalación de las pantallas en adelante.**
 
 ### Sobre las pantallas
 Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar ofertas de televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) a precios muy por debajo de los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios todavía más bajos. Lo importante es que cualquier televisor con entrada HDMI es compatible con la Cartelería Digital, sin importar su antigüedad.
