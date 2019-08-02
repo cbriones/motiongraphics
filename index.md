@@ -1,11 +1,17 @@
 # GALERÍA
-Inspírate con las posibilidades que ofrece esta tecnología. La atracción hacia el movimiento es instintiva. Atrae la atención de **tu público** de manera irresistible. Es muy probable que más de alguno de estos videos se adapte a las necesidades de tu negocio, elige uno, o varios.
+Inspírate con las posibilidades que ofrece esta tecnología. 
+
+La atracción hacia el movimiento es instintiva. 
+
+Atrae la atención de **tu público** de manera irresistible. 
+
+Es muy probable que más de alguno de estos videos se adapte a las necesidades de tu negocio, elige uno, o varios.
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
 width="160" height="90" frameborder="0" ></iframe>
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
 width="160" height="90" frameborder="0" ></iframe>
 
-La animación digital es una de las herramientas más efectivas que existen en el mercado para cautivar al público con tu mensaje y aumentar tus ventas.
+La animación digital es una de las herramientas más efectivas para cautivar al público con tu mensaje y aumentar tus ventas.
 
 Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento en alta definición permiten reproducciones en proyectores y pantallas de grandes dimensiones con las que puedes poner al día al mismo tiempo la decoración de tus instalaciones como tu imagen de marca.
 
