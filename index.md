@@ -32,14 +32,14 @@ Finalmente, la alta definición de estos videos también permite exhibir tu mens
 
 * Si no quedas totalmente satisfecho con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto anterior tantas veces como sea necesario hasta finalizar el proceso exitosamente.
 
-**El producto final consiste en un archivo de video en alta definición, el que podrás descargar y publicar con total libertad.**
+**El producto final consiste en un archivo de video en alta definición, el que podrás descargar y publicar con total libertad.(licencia  MIT [https://opensource.org/licenses/MIT])**
 
 ![image](https://user-images.githubusercontent.com/16393716/62242266-c3101700-b3a8-11e9-8502-3f346cec7d1f.png)
 
 ## Equipamiento
 La situación ideal para que puedas disfrutar de tu Cartel Digital en el menor tiempo posible, supone que ya dispones de al menos un televisor de pantalla plana instalado en tu negocio y un reproductor multimedia como un notebook por ejemplo.
 
-Como reproductor multimedia, he configurado un mini computador exclusivamente para este propósito. Este dispositivo de bajo consumo y más pequeño que un teléfono inteligente, funciona de manera automática con sólo conectarlo a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria SD.
+Para optimizar la función del reproductor multimedia, he configurado un mini computador exclusivamente para este propósito. Este dispositivo de bajo consumo y más pequeño que un teléfono móvil, funciona de manera automática con sólo conectarlo a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria SD.
 
 En el corto plazo, usando este mismo dispositivo también podrás optar a la posibilidad de programar su contenido vía Internet lo que te permitirá actualizarlo en función del horario, el día de la semana y los cambios de temporada. Este aparato tiene un valor comercial de $77.000, pero lo puedes obtener a un precio de lanzamiento de $53.000.
 
@@ -58,3 +58,5 @@ Agregar que tarifas van a subir al doble, excepto para los que contraten servici
 
 **Estoy muy interesado en ver cómo la Cartelería Digital mejora la percepción de tu imagen de marca, aumentan la efectividad de tu mensaje hacia el público y cómo todo esto se traduce en el crecimiento de tu negocio. Por favor, no dudes en darme tu _feedback_ y solicitarme asesoría en cada etapa del proceso, esto es, a partir de la cotización y la instalación de las pantallas en adelante.**
 
+
+puede costar varios millones de pesos (cinematografía, diseño, dibujo, etc) pero, están las opciones pre establecidas.
