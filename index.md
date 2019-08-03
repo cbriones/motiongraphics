@@ -56,4 +56,5 @@ Actualmente los televisores de pantalla plana se pueden encontrar a precios sorp
 
 40 lucas, una básica, genérica, que me demore 1 hora en hacerla en mi tarro
 animación custom... 1 palo
+Agregar que tarifas van a subir al doble, excepto para los que contraten servicio durante este año.
 
