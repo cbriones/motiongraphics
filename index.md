@@ -46,7 +46,7 @@ En el corto plazo, usando este mismo aparato también podrás optar a la posibil
 Si quieres reducir este costo, también se puede usar un notebook conectado a una pantalla como reproductor de video, aunque al poco andar te podrás dar cuenta que esta alternativa no es la más práctica ni mucho menos la más elegante.
 
 ### Sobre las pantallas
-Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar ofertas de televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) a precios muy por debajo de los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios todavía más bajos. Lo importante es que cualquier televisor con entrada HDMI es compatible con la Cartelería Digital, sin importar su antigüedad.
+Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar ofertas de televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) a precios muy por debajo de los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente eficaces—pueden encontrarse a precios todavía más bajos. Lo importante es que cualquier televisor con entrada HDMI es compatible con la Cartelería Digital, sin importar su antigüedad.
 
 ## Valores
 
