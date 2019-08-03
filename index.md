@@ -32,7 +32,7 @@ Finalmente, la alta definición de estos videos también permite exhibir tu mens
 
 **[6]** Si no quedas totalmente satisfecho con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto **[5]** tantas veces como sea necesario hasta finalizar el proceso exitosamente.
 
-**El producto final consiste en un archivo de video que podrás publicar con total libertad y sin ninguna clase de restricciones.**
+**El producto final consiste en un archivo de video que podrás descargar y publicar con total libertad.**
 
 ![image](https://user-images.githubusercontent.com/16393716/62242266-c3101700-b3a8-11e9-8502-3f346cec7d1f.png)
 
