@@ -37,15 +37,13 @@ Finalmente, la alta definición de estos videos también permite exhibir tu mens
 ![image](https://user-images.githubusercontent.com/16393716/62242266-c3101700-b3a8-11e9-8502-3f346cec7d1f.png)
 
 ## Equipamiento
-La situación ideal para que puedas disfrutar de tu Cartel Digital en el menor tiempo posible, supone que ya dispones de uno o más televisores de pantalla plana instalados en tu negocio.
+La situación ideal para que puedas disfrutar de tu Cartel Digital en el menor tiempo posible, supone que ya dispones de uno o más televisores de pantalla plana instalados en tu negocio y uno o varios reproductores multimedia.
 
-Para reproducir los videos en tus pantallas, he configurado un mini computador exclusivamente para este propósito. Este dispositivo de bajo consumo y más pequeño que un teléfono inteligente, funciona de manera automática con tan sólo conectarlo a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria SD.
+Para reproducir los videos en tus pantallas, configuré un mini computador exclusivamente para este propósito. Este dispositivo de bajo consumo y más pequeño que un teléfono inteligente, funciona de manera automática con sólo conectarlo a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria SD.
 
-En el corto plazo, usando este mismo aparato también podrás optar a la posibilidad de programar su contenido vía Internet lo que te permitirá actualizarlo en función del horario, el día de la semana y los cambios de temporada. Este aparato tiene un valor comercial de $87.000, pero por ahora lo ofrezco a un precio de lanzamiento de $57.000.
+En el corto plazo, usando este mismo aparato también podrás optar a la posibilidad de programar su contenido vía Internet lo que te permitirá actualizarlo en función del horario, el día de la semana y los cambios de temporada. Este aparato tiene un valor comercial de $77.000, pero lo ofrezco en este momento a un precio de lanzamiento de $57.000.
 
-Si quieres reducir este costo, puedes usar un notebook conectado a una pantalla como reproductor de video, aunque al poco andar te vas a dar cuenta que esta alternativa no es la más práctica ni mucho menos la más elegante.
-
-**Estoy muy interesado en ver cómo la Cartelería Digital mejora la percepción de tu imagen de marca, aumentan la efectividad de tu mensaje hacia el público y cómo todo esto se traduce en el crecimiento de tu negocio. Por favor, no dudes en darme tu _feedback_ y solicitarme asesoría en cada etapa del proceso, esto es, a partir de la cotización y la instalación de las pantallas en adelante.**
+Si quieres reducir este costo, también se puede usar un notebook conectado a una pantalla como reproductor de video, aunque al poco andar te podrás dar cuenta que esta alternativa no es la más práctica ni mucho menos la más elegante.
 
 ### Sobre las pantallas
 Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar ofertas de televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) a precios muy por debajo de los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente efectivos—pueden encontrarse a precios todavía más bajos. Lo importante es que cualquier televisor con entrada HDMI es compatible con la Cartelería Digital, sin importar su antigüedad.
@@ -57,4 +55,6 @@ Actualmente los televisores de pantalla plana se pueden encontrar a precios sorp
 40 lucas, una básica, genérica, que me demore 1 hora en hacerla en mi tarro
 animación custom... 1 palo
 Agregar que tarifas van a subir al doble, excepto para los que contraten servicio durante este año.
+
+**Estoy muy interesado en ver cómo la Cartelería Digital mejora la percepción de tu imagen de marca, aumentan la efectividad de tu mensaje hacia el público y cómo todo esto se traduce en el crecimiento de tu negocio. Por favor, no dudes en darme tu _feedback_ y solicitarme asesoría en cada etapa del proceso, esto es, a partir de la cotización y la instalación de las pantallas en adelante.**
 
