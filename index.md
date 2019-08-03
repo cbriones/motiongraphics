@@ -37,13 +37,13 @@ Finalmente, la alta definición de estos videos también permite exhibir tu mens
 ![image](https://user-images.githubusercontent.com/16393716/62242266-c3101700-b3a8-11e9-8502-3f346cec7d1f.png)
 
 ## Equipamiento
-La situación ideal para que puedas disfrutar de tu Cartel Digital en el menor tiempo posible, supone que ya dispones de al menos un televisor de pantalla plana instalados en tu negocio y un reproductor multimedia.
+La situación ideal para que puedas disfrutar de tu Cartel Digital en el menor tiempo posible, supone que ya dispones de al menos un televisor de pantalla plana instalado en tu negocio y un reproductor multimedia (que puede ser un notebook).
 
 Para reproducir los videos en tus pantallas, he configurado un mini computador exclusivamente para este propósito. Este dispositivo de bajo consumo y más pequeño que un teléfono inteligente, funciona de manera automática con sólo conectarlo a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria SD.
 
-En el corto plazo, usando este mismo aparato también podrás optar a la posibilidad de programar su contenido vía Internet lo que te permitirá actualizarlo en función del horario, el día de la semana y los cambios de temporada. Este aparato tiene un valor comercial de $77.000, pero lo ofrezco en este momento a un precio de lanzamiento de $47.000.
+En el corto plazo, usando este mismo aparato también podrás optar a la posibilidad de programar su contenido vía Internet lo que te permitirá actualizarlo en función del horario, el día de la semana y los cambios de temporada. Este aparato tiene un valor comercial de $77.000, pero lo puedes obtener a un precio de lanzamiento de $47.000.
 
-Si quieres reducir este costo, también se puede usar un notebook conectado a una pantalla como reproductor de video, aunque al poco andar te podrás dar cuenta que esta alternativa no es la más práctica ni mucho menos la más elegante.
+Si quieres reducir este costo, puedes usar un notebook como reproductor multimedia conectado a una pantalla, aunque al poco andar te podrás dar cuenta que esta alternativa no es la más práctica ni mucho menos la más elegante.
 
 ### Sobre las pantallas
 Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar ofertas de televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) a precios muy por debajo de los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente eficaces—pueden encontrarse a precios todavía más bajos. Lo importante es que cualquier televisor con entrada HDMI es compatible con la Cartelería Digital, sin importar su antigüedad.
