@@ -37,9 +37,9 @@ Finalmente, la alta definición de estos videos también permite exhibir tu mens
 ![image](https://user-images.githubusercontent.com/16393716/62242266-c3101700-b3a8-11e9-8502-3f346cec7d1f.png)
 
 ## Equipamiento
-La situación ideal para que puedas disfrutar de tu Cartel Digital en el menor tiempo posible, supone que ya dispones de uno o más televisores de pantalla plana instalados en tu negocio y uno o varios reproductores multimedia.
+La situación ideal para que puedas disfrutar de tu Cartel Digital en el menor tiempo posible, supone que ya dispones de al menos un televisor de pantalla plana instalados en tu negocio y un reproductor multimedia.
 
-Para reproducir los videos en tus pantallas, configuré un mini computador exclusivamente para este propósito. Este dispositivo de bajo consumo y más pequeño que un teléfono inteligente, funciona de manera automática con sólo conectarlo a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria SD.
+Para reproducir los videos en tus pantallas, he configurado un mini computador exclusivamente para este propósito. Este dispositivo de bajo consumo y más pequeño que un teléfono inteligente, funciona de manera automática con sólo conectarlo a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria SD.
 
 En el corto plazo, usando este mismo aparato también podrás optar a la posibilidad de programar su contenido vía Internet lo que te permitirá actualizarlo en función del horario, el día de la semana y los cambios de temporada. Este aparato tiene un valor comercial de $77.000, pero lo ofrezco en este momento a un precio de lanzamiento de $47.000.
 
