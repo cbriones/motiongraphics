@@ -20,17 +20,17 @@ Por otro lado, estas animaciones son herramientas valiosas para potenciar la pre
 Finalmente, la alta definición de estos videos también permite exhibir tu mensaje en pantallas gigantes de exterior, las que se pueden ver con mayor frecuencia en centros comerciales, avenidas principales y toda clase de espacios públicos de alta concurrencia. 
 
 ## ¿CÓMO FUNCIONA?
-**[1]** Te recomiendo usar la galería como punto de partida para que te inspires y elijas una o más animaciones que se adapten a tu negocio, o bien, si ya tienes algo en mente, puedes crear algunos bosquejos o recopilar links de imágenes y videos de Internet que te parezcan atractivos.
+* Te recomiendo usar la galería como punto de partida para que te inspires y elijas una o más animaciones que se adapten a tu negocio, o bien, si ya tienes algo en mente, puedes crear algunos bosquejos o recopilar links de imágenes y videos de Internet que te parezcan atractivos.
 
-**[2]** Te pones en contacto (vía correo electrónico, Whatsapp o teléfono) para enviar tus links, tus gráficas y el texto con la información sobre los productos que quieras promocionar para que analicemos tus requerimientos detalladamente. 
+* Te pones en contacto (vía correo electrónico, Whatsapp o teléfono) para enviar tus links, tus gráficas y el texto con la información sobre los productos que quieras promocionar para que analicemos tus requerimientos detalladamente. 
 
-**[3]** Recibes uno o más presupuestos con los tiempos estimados de entrega. 
+* Recibes uno o más presupuestos con los tiempos estimados de entrega. 
 
-**[4]** Evalúas las propuestas y eventualmente confirmas la puesta en marcha del proyecto.
+* Evalúas las propuestas y eventualmente confirmas la puesta en marcha del proyecto.
 
-**[5]** Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja resolución. Si quedas conforme, transfieres el monto acordado en el punto **[4]**, momento a partir del cual se genera la versión final en alta resolución, la que quedará disponible para ser descargada, finalizando así el proceso de forma exitosa.
+* Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja resolución. Si quedas conforme, transfieres el monto acordado en el punto **[4]**, momento a partir del cual se genera la versión final en alta resolución, la que quedará disponible para ser descargada, finalizando así el proceso de forma exitosa.
 
-**[6]** Si no quedas totalmente satisfecho con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto **[5]** tantas veces como sea necesario hasta finalizar el proceso exitosamente.
+* Si no quedas totalmente satisfecho con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto anterior tantas veces como sea necesario hasta finalizar el proceso exitosamente.
 
 **El producto final consiste en un archivo de video que podrás descargar y publicar con total libertad.**
 
