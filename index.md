@@ -1,11 +1,11 @@
 # GALERÍA
-Inspírate con las posibilidades que ofrece esta tecnología. 
 
 La atracción hacia el movimiento es instintiva. 
 
-Atrae la atención de **tu público** de manera irresistible. 
+La animación digital permite atraer la atención del público de manera irresistible. 
 
-Es muy probable que más de alguno de estos videos se adapte a las necesidades de tu negocio, elige uno, o varios.
+Explora las posibilidades que ofrece esta tecnología en esta Galería e inspírate.
+
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
 width="160" height="90" frameborder="0" ></iframe>
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
@@ -15,24 +15,24 @@ La animación digital es una de las herramientas más efectivas para cautivar al
 
 Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento en alta definición permiten reproducciones en proyectores y pantallas de grandes dimensiones con las que puedes poner al día al mismo tiempo la decoración de tus instalaciones y tu imagen de marca.
 
-Por otro lado, estas animaciones son herramientas valiosas para potenciar la presencia de tu negocio en redes sociales, haciendo promoción de ofertas entre tus seguidores o mediante publicidad pagada. Su atractivo visual ayuda a aumentar el nivel de conocimiento y recordación de tu marca.
+Además, estas animaciones son herramientas valiosas para potenciar la presencia de tu negocio en redes sociales, haciendo promoción de ofertas entre tus seguidores o mediante publicidad pagada. Su atractivo visual aumenta el nivel de conocimiento y recordación de tu marca.
 
 Finalmente, la alta definición de estos videos también permite exhibir tu mensaje en pantallas gigantes de exterior, las que se pueden ver con mayor frecuencia en centros comerciales, avenidas principales y toda clase de espacios públicos de alta concurrencia. 
 
 ## ¿CÓMO FUNCIONA?
-* Te recomiendo usar la galería como punto de partida para que te inspires y elijas una o más animaciones que se adapten a tu negocio, o bien, si ya tienes algo en mente, puedes crear algunos bosquejos o recopilar links de imágenes y videos de Internet que te parezcan atractivos.
+* Usa la galería como punto de partida para que te inspires y elijas una o más animaciones que se adapten a tu negocio. Si ya tienes algo en mente, puedes crear bosquejos o recopilar links de imágenes y videos que sirvan de ejemplo.
 
-* Te pones en contacto (vía correo electrónico, Whatsapp o teléfono) para enviar tus links, tus gráficas y el texto con la información sobre los productos que quieras promocionar para que analicemos tus requerimientos detalladamente. 
+* Te pones en contacto (vía correo electrónico, Whatsapp o teléfono) para compartir tus links, tus gráficas y el texto con la información sobre los productos que quieras promocionar para poder analizar tus requerimientos detalladamente. 
 
 * Recibes uno o más presupuestos con los tiempos estimados de entrega. 
 
 * Evalúas las propuestas y eventualmente confirmas la puesta en marcha del proyecto.
 
-* Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja resolución. Si quedas conforme, transfieres el monto acordado, momento a partir del cual se genera la versión final en alta resolución, la que quedará disponible para ser descargada, finalizando así el proceso de forma exitosa.
+* Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja resolución. Si quedas conforme, transfieres el monto acordado, momento a partir del cual se genera la versión final en alta resolución (render o revelado digital), la que quedará disponible para ser descargada, finalizando así el proceso de forma exitosa.
 
 * Si no quedas totalmente satisfecho con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto anterior tantas veces como sea necesario hasta finalizar el proceso exitosamente.
 
-**El producto final consiste en un archivo de video en alta definición, el que podrás descargar y publicar con total libertad.(licencia  MIT [https://opensource.org/licenses/MIT])**
+> **El producto final consiste en un archivo de video en alta definición, el que podrás descargar y publicar con total libertad.**
 
 ![image](https://user-images.githubusercontent.com/16393716/62242266-c3101700-b3a8-11e9-8502-3f346cec7d1f.png)
 
