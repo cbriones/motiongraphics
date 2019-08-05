@@ -35,7 +35,7 @@ Finalmente, la alta definición de estos videos también permite exhibir tu mens
 > **El producto final consiste en un archivo de video en alta definición, el que podrás descargar y publicar con total libertad.**
 
 ## EQUIPAMIENTO
-La situación ideal para que puedas disfrutar de tu Cartelería Digital en el menor tiempo posible, supone que ya dispones de al menos un televisor de pantalla plana en tu negocio y un reproductor multimedia (que puede ser un notebook o tablet con potencia suficiente para reproducir videos en alta definición).
+La situación ideal para que puedas disfrutar de tu Cartelería Digital en el menor tiempo posible, supone que ya dispones de al menos un televisor de pantalla plana en tu negocio y un reproductor multimedia (este último puede ser un notebook o tablet con potencia suficiente para reproducir videos en alta definición).
 
 Para optimizar la función del reproductor multimedia, desarrollé una solución para este propósito. Se trata de un dispositivo discreto y de bajo consumo (es más pequeño que un teléfono móvil), es básicamente un computador en miniatura que funciona de manera automática al ser conectado a una pantalla. Para cambiar la animación, simplemente se carga un nuevo video en su memoria USB.
 
