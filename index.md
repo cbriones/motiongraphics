@@ -1,6 +1,6 @@
 # GALERÍA
 
-La atracción hacia el movimiento es una característica humana no sólo instintiva, es un acto reflejo. Por eso la animación digital permite atraer la atención de una manera casi irresistible. 
+Sentirse atraído hacia el movimiento es una inclinación humana más que instintiva, es un acto reflejo. Por eso la animación digital permite atraer la atención de una manera casi irresistible. 
 
 Explora las posibilidades que ofrece esta tecnología en esta galería e inspírate para producir tu próximo proyecto publicitario.
 
