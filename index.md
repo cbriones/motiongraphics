@@ -1,21 +1,21 @@
 # GALERÍA
 
-La atracción hacia el movimiento es más que instintiva, es un acto reflejo. 
+La atracción hacia el movimiento es una característica más que instintiva, es un acto reflejo. 
 
-La animación digital permite atraer la atención del público de manera absolutamente irresistible. 
+La animación digital permite atraer la atención de manera absolutamente irresistible. 
 
-Explora las posibilidades que ofrece esta tecnología en esta galería e inspírate.
+Explora las posibilidades que ofrece esta tecnología en esta galería e inspírate para producir tu próximo proyecto publicitario.
 
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
 width="160" height="90" frameborder="0" ></iframe>
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
 width="160" height="90" frameborder="0" ></iframe>
 
-La animación digital es una de las herramientas más efectivas para cautivar al público con tu mensaje y aumentar tus ventas.
+La animación digital es una de las herramientas más efectivas para transmitir mensajes cautivadores y aumentar tus ventas.
 
-Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento en alta definición permiten reproducciones en proyectores y pantallas de grandes dimensiones con las que puedes poner al día al mismo tiempo la decoración de tus instalaciones y tu imagen de marca.
+Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento en alta definición permiten reproducciones en proyectores y pantallas de grandes dimensiones con las que puedes poner al día la decoración de tus instalaciones y tu imagen de marca.
 
-Además, estas animaciones son herramientas valiosas para potenciar la presencia de tu negocio en redes sociales, haciendo promoción de ofertas entre tus seguidores o mediante publicidad pagada. Su atractivo visual aumenta el nivel de conocimiento y recordación de tu marca.
+Además, estas animaciones son herramientas valiosas para potenciar la presencia de tu negocio en redes sociales, promocionando tus ofertas entre tus seguidores o contratando publicidad pagada. Su atractivo visual aumenta el nivel de conocimiento y recordación de tu marca.
 
 Finalmente, la alta definición de estos videos también permite exhibir tu mensaje en pantallas gigantes de exterior, las que se pueden ver con mayor frecuencia en centros comerciales, avenidas principales y toda clase de espacios públicos de alta concurrencia. 
 
@@ -37,13 +37,13 @@ Finalmente, la alta definición de estos videos también permite exhibir tu mens
 ![image](https://user-images.githubusercontent.com/16393716/62242266-c3101700-b3a8-11e9-8502-3f346cec7d1f.png)
 
 ## Equipamiento
-La situación ideal para que puedas disfrutar de tu Cartel Digital en el menor tiempo posible, supone que ya dispones de al menos un televisor de pantalla plana instalado en tu negocio y un reproductor multimedia como un notebook por ejemplo.
+La situación ideal para que puedas disfrutar de tu Cartel Digital en el menor tiempo posible, supone que ya dispones de al menos un televisor de pantalla plana instalado en tu negocio y un reproductor multimedia (que puede ser un notebook lo suficientemente potente como para reproducir videos en alta definición).
 
-Para optimizar la función del reproductor multimedia, he configurado un mini computador exclusivamente para este propósito. Este dispositivo de bajo consumo y más pequeño que un teléfono móvil, funciona de manera automática con sólo conectarlo a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria USB.
+Para optimizar la función del reproductor multimedia, he configurado un mini computador exclusivamente para este propósito. Este dispositivo de bajo consumo y muy discreto (más pequeño que un teléfono móvil), funciona de manera automática con sólo conectarlo a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria USB.
 
-En el corto plazo, usando este mismo dispositivo también podrás optar a la posibilidad de programar su contenido vía Internet lo que te permitirá actualizarlo en función del horario, el día de la semana y los cambios de temporada. Este aparato tiene un valor comercial de $77.000, pero lo puedes obtener a un precio de lanzamiento de $53.000.
+En el corto plazo, usando este mismo dispositivo también podrás optar a la posibilidad de programar su contenido vía Internet, lo que te permitirá actualizarlo automáticamente en función del horario, el día de la semana y los cambios de temporada. Este dispositivo tiene un valor comercial de $77.000, pero lo podrás obtener a un precio de lanzamiento de $53.000.
 
-Como decía, si quieres reducir este costo, se puede usar un notebook como reproductor multimedia, aunque al poco andar te darás cuenta que esta alternativa no es la más práctica ni mucho menos la más elegante.
+Si de todas formas quieres reducir este costo, siempre podrás usar un notebook como reproductor multimedia, aunque al poco andar te darás cuenta que esta alternativa no es la más práctica ni mucho menos la más elegante.
 
 ### Sobre las pantallas
 Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. Es fácil encontrar ofertas de televisores de grandes dimensiones (más de 50") de muy alta definición (4K, el estándar cinematográfico actual) a precios muy por debajo de los 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente eficaces—pueden encontrarse a precios todavía más bajos. Lo importante es que cualquier televisor con entrada HDMI es compatible con la Cartelería Digital, sin importar su antigüedad.
