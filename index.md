@@ -15,7 +15,7 @@ Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicio
 
 Además, estas animaciones son herramientas valiosas para aumentar la presencia de tu negocio en redes sociales, promocionando tus ofertas entre tus seguidores o contratando publicidad pagada en Internet. Su atractivo visual aumenta el nivel de conocimiento y recordación de tu marca.
 
-Finalmente, la alta definición de estos videos también permite exhibir tu mensaje en pantallas gigantes de exterior, las que se pueden ver cada día con mayor frecuencia en centros comerciales, avenidas principales y toda clase de espacios públicos de alta concurrencia. 
+Finalmente, la alta definición de estos videos permite exhibir mensajes en pantallas gigantes de exterior, las que se pueden ver cada día con mayor frecuencia en centros comerciales, avenidas principales y toda clase de espacios públicos de alta concurrencia. 
 
 ## ¿CÓMO FUNCIONA?
 * Usa la galería como punto de partida para que te inspires y elijas una o más animaciones que se adapten a tu negocio. Si ya tienes algo en mente, puedes crear bosquejos o recopilar links de imágenes y videos que sirvan de ejemplo.
