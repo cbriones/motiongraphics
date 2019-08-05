@@ -1,8 +1,6 @@
 # GALERÍA
 
-La atracción hacia el movimiento es una tendencia más que instintiva, es un acto reflejo. 
-
-La animación digital permite atraer la atención de manera absolutamente irresistible. 
+La atracción hacia el movimiento es una tendencia más que instintiva, es un acto reflejo. Es por esto que la animación digital permite atraer la atención de manera casi irresistible. 
 
 Explora las posibilidades que ofrece esta tecnología en esta galería e inspírate para producir tu próximo proyecto publicitario.
 
