@@ -2,9 +2,9 @@
 
 La atracción hacia el movimiento es más que instintiva, es un acto reflejo. 
 
-La animación digital permite atraer la atención del público de manera irresistible. 
+La animación digital permite atraer la atención del público de manera absolutamente irresistible. 
 
-Explora las posibilidades que ofrece esta tecnología en esta Galería e inspírate.
+Explora las posibilidades que ofrece esta tecnología en esta galería e inspírate.
 
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
 width="160" height="90" frameborder="0" ></iframe>
