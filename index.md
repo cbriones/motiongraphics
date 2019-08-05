@@ -54,11 +54,9 @@ Actualmente los televisores de pantalla plana se pueden encontrar a precios sorp
 animación custom... 1 palo
 Agregar que tarifas van a subir al doble, excepto para los que contraten servicio durante este año.
 
-> **Estoy muy interesado en ver cómo la Cartelería Digital mejora la percepción de tu imagen de marca, aumenta la efectividad de tu mensaje y cómo esto finalmente se traduce en el crecimiento de tu negocio. Por favor, no dudes en darme tu _feedback_ y pedir ayuda en cada etapa del proceso, partiendo por la cotización y la instalación de las pantallas si aún no dispones de ellas**
-
-
-Una solución de este tipo para grandes tiendas puede fácilmente llegar a costar varios millones de pesos si se contrata a través de una agencia publicitaria o una productora audiovisual. Actualmente, los avances tecnológicos permiten que una sola persona con múltiples capacidades técnicas y artísticas pueda ofrecer este servicio de manera independiente y a una fracción del costo.
-
-
+Una solución de este tipo para grandes tiendas puede fácilmente llegar a costar varios millones de pesos si se contrata a través de una agencia publicitaria o una productora audiovisual. Actualmente, los avances tecnológicos permiten que una sola persona con capacidades técnicas y artísticas multidisciplinarias pueda ofrecer este servicio de manera independiente y a una fracción del costo.
 
 (cinematografía, diseño, dibujo, etc) pero, están las opciones pre establecidas.
+
+> **Estoy muy interesado en ver cómo la Cartelería Digital mejora la percepción de tu imagen de marca, aumenta la efectividad de tu mensaje y cómo esto finalmente se traduce en el crecimiento de tu negocio. Por favor, no dudes en darme tu _feedback_ y pedir ayuda en cada etapa del proceso, partiendo por la cotización y la instalación de las pantallas si aún no dispones de ellas**
+
