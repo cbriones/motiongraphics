@@ -20,7 +20,7 @@ Finalmente, la alta definición de estos videos también permite exhibir tu mens
 ## ¿CÓMO FUNCIONA?
 * Usa la galería como punto de partida para que te inspires y elijas una o más animaciones que se adapten a tu negocio. Si ya tienes algo en mente, puedes crear bosquejos o recopilar links de imágenes y videos que sirvan de ejemplo.
 
-* Te pones en contacto (vía correo electrónico, Whatsapp o teléfono), envías tus links, tus gráficas y el texto con la información sobre los productos que quieras promocionar para que analicemos tus requerimientos detalladamente. 
+* Te pones en contacto (vía correo electrónico, Whatsapp o teléfono), envías tus links, tus gráficas y el texto con la información sobre los productos que quieras promocionar para que analicemos tus requerimientos en detalle. 
 
 * Recibes uno o más presupuestos con los tiempos estimados de entrega. 
 
