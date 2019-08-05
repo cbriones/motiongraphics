@@ -28,7 +28,7 @@ Finalmente, la alta definición de estos videos también permite exhibir tu mens
 
 * Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja resolución. Si quedas conforme, transfieres el monto acordado, momento a partir del cual se genera la versión final de tu video en alta resolución (proceso conocido como _rendering_ o revelado digital), que quedará disponible para ser descargado, finalizando así el proceso de forma exitosa.
 
-* Si no quedas totalmente satisfecho con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto anterior tantas veces como sea necesario hasta finalizar el proceso exitosamente.
+  * Si no quedas totalmente satisfecho con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto anterior tantas veces como sea necesario hasta finalizar el proceso exitosamente.
 
 ![image](https://user-images.githubusercontent.com/16393716/62242266-c3101700-b3a8-11e9-8502-3f346cec7d1f.png)
 
