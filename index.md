@@ -1,6 +1,6 @@
 # GALERÍA
 
-La atracción hacia el movimiento es instintiva. 
+La atracción hacia el movimiento es más que instintivo, es un acto reflejo. 
 
 La animación digital permite atraer la atención del público de manera irresistible. 
 
