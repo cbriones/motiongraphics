@@ -1,6 +1,6 @@
 # GALERÍA
 
-La atracción hacia el movimiento es una característica más que instintiva, es un acto reflejo. 
+La atracción hacia el movimiento es una tendencia más que instintiva, es un acto reflejo. 
 
 La animación digital permite atraer la atención de manera absolutamente irresistible. 
 
