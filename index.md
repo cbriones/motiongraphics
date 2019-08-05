@@ -37,7 +37,7 @@ Finalmente, la alta definición de estos videos también permite exhibir tu mens
 ![image](https://user-images.githubusercontent.com/16393716/62242266-c3101700-b3a8-11e9-8502-3f346cec7d1f.png)
 
 ## Equipamiento
-La situación ideal para que puedas disfrutar de tu Cartel Digital en el menor tiempo posible, supone que ya dispones de al menos un televisor de pantalla plana instalado en tu negocio y un reproductor multimedia (que puede ser un notebook lo suficientemente potente como para reproducir videos en alta definición).
+La situación ideal para que puedas disfrutar de tu Cartel Digital en el menor tiempo posible, supone que ya dispones de al menos un televisor de pantalla plana instalado en tu negocio y un reproductor multimedia (que puede ser un notebook con potencia suficiente para reproducir videos en alta definición).
 
 Para optimizar la función del reproductor multimedia, he configurado un mini computador exclusivamente para este propósito. Este dispositivo de bajo consumo y muy discreto (más pequeño que un teléfono móvil), funciona de manera automática con sólo conectarlo a una pantalla. Cuando necesites cambiar la animación, simplemente cargas un nuevo video en su memoria USB.
 
