@@ -20,13 +20,13 @@ Finalmente, la alta definición de estos videos también permite exhibir tu mens
 ## ¿CÓMO FUNCIONA?
 * Usa la galería como punto de partida para que te inspires y elijas una o más animaciones que se adapten a tu negocio. Si ya tienes algo en mente, puedes crear bosquejos o recopilar links de imágenes y videos que sirvan de ejemplo.
 
-* Te pones en contacto (vía correo electrónico, Whatsapp o teléfono) para compartir tus links, tus gráficas y el texto con la información sobre los productos que quieras promocionar para poder analizar tus requerimientos detalladamente. 
+* Te pones en contacto (vía correo electrónico, Whatsapp o teléfono), envías tus links, tus gráficas y el texto con la información sobre los productos que quieras promocionar para que analicemos tus requerimientos detalladamente. 
 
 * Recibes uno o más presupuestos con los tiempos estimados de entrega. 
 
 * Evalúas las propuestas y eventualmente confirmas la puesta en marcha del proyecto.
 
-* Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja resolución. Si quedas conforme, transfieres el monto acordado, momento a partir del cual se genera la versión final en alta resolución (proceso conocido como _rendering_ o revelado digital), la que quedará disponible para ser descargada, finalizando así el proceso de forma exitosa.
+* Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja resolución. Si quedas conforme, transfieres el monto acordado, momento a partir del cual se genera la versión final de tu video en alta resolución (proceso conocido como _rendering_ o revelado digital), que quedará disponible para ser descargado, finalizando así el proceso de forma exitosa.
 
 * Si no quedas totalmente satisfecho con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto anterior tantas veces como sea necesario hasta finalizar el proceso exitosamente.
 
