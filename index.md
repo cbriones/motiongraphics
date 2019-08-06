@@ -41,7 +41,7 @@ Para optimizar la función del reproductor multimedia, he implementado una soluc
 
 En el corto plazo, usando este mismo dispositivo también podrás optar a la posibilidad de programar su contenido de manera remota vía Internet, y te permitirá actualizarlo en función del horario, el día de la semana y los cambios de temporada. Este dispositivo tiene un valor comercial de $87.000, pero lo puedes obtener a un precio de lanzamiento de $57.000.
 
-Si de todas formas quieres reducir este costo, siempre podrás usar un notebook o tablet como reproductor multimedia, aunque al poco andar es posible que esta alternativa no te parezca la más práctica ni mucho menos la más elegante.
+Si de todas formas quieres reducir este costo, siempre podrás usar un notebook o tablet como reproductor multimedia, aunque al poco andar es posible que esta alternativa no te resulte práctica ni mucho menos elegante.
 
 ### DE LAS PANTALLAS
 Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. No es difícil encontrar ofertas de televisores nuevos, de grandes dimensiones (más de 50") y de muy alta definición (4K, el estándar cinematográfico actual) por menos de 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente eficaces—pueden encontrarse a precios mucho más bajos. Lo importante es que cualquier televisor con entrada HDMI es compatible con la Cartelería Digital, sin importar su tamaño o antigüedad.
