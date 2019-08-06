@@ -9,7 +9,7 @@ width="160" height="90" frameborder="0" ></iframe>
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
 width="160" height="90" frameborder="0" ></iframe>
 
-La Cartelería Digital es una de las herramientas más eficaces para transmitir mensajes que cautiven a tu cliente ideal y aumentar así tus ventas.
+La Cartelería Digital es una de las herramientas más eficaces para transmitir mensajes que cautivan a tu cliente ideal y aumentan tus ventas.
 
 Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento en alta definición permiten reproducciones en proyectores y pantallas de grandes dimensiones con las que puedes darle vida y luminosidad a la decoración de tus espacios y al mismo tiempo modernizar tu imagen de marca.
 
