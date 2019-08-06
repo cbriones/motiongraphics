@@ -48,7 +48,7 @@ Actualmente los televisores de pantalla plana se pueden encontrar a precios sorp
 
 ## VALORES
 
-Hasta hace muy poco tiempo, servicios de este tipo sólo se podían contratar a través de agencias publicitarias o productoras audiovisuales, los que fácilmente pueden llegar a costar varios millones de pesos. Actualmente, los avances tecnológicos permiten que una sola persona, con la combinación apropiada de capacidades técnicas y artísticas, pueda ofrecer este servicio de manera independiente a una fracción de dicho costo.
+Hasta ahora, servicios de este tipo sólo se podían contratar a través de grandes agencias publicitarias y productoras audiovisuales, que fácilmente pueden llegar a costar varios millones de pesos. Los avances tecnológicos permiten hoy que una sola persona, con la combinación apropiada de capacidades técnicas y artísticas, pueda ofrecer este servicio de manera independiente a una fracción de dicho costo.
 
 100 lucas algo autoadministrable... ultra basico en html5
 
@@ -60,5 +60,5 @@ Agregar que tarifas van a subir al doble, excepto para los que contraten servici
 
 (cinematografía, diseño, dibujo, etc) pero, están las opciones pre establecidas.
 
-> **Estoy muy interesado en ver cómo la Cartelería Digital mejora la percepción de tu imagen de marca, aumenta la efectividad de tu mensaje y cómo esto finalmente se traduce en el crecimiento de tu negocio. Por favor, no dudes en comentarme tus impresiones y solicitar ayuda en cada etapa del proceso, comenzando por la cotización y la instalación de las pantallas si no las tienes, hasta después de la recepción de tu producto, en el servicio postventa**
+> **Estoy muy interesado en ver cómo la Cartelería Digital mejora la percepción de tu imagen de marca, aumenta la efectividad de tu mensaje y cómo esto finalmente se traduce en el crecimiento de tu negocio. Por favor, no dudes en comentarme tus impresiones y solicitar ayuda en cada etapa del proceso, comenzando por despejar tus dudas antes de tomar una decisión, hasta después de la recepción de tu producto, durante el servicio postventa**
 
