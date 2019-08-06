@@ -60,5 +60,5 @@ Agregar que tarifas van a subir al doble, excepto para los que contraten servici
 
 (cinematografía, diseño, dibujo, etc) pero, están las opciones pre establecidas.
 
-> **Estoy muy interesado en ver cómo la Cartelería Digital mejora la percepción de tu imagen de marca, aumenta la efectividad de tu mensaje y cómo esto finalmente se traduce en el crecimiento de tu negocio. Por favor, no dudes en comentarme tus impresiones y solicitar ayuda en cada etapa del proceso, comenzando por la cotización y la instalación de las pantallas si aún no las tienes, hasta después de la recepción de tu producto, en el servicio postventa**
+> **Estoy muy interesado en ver cómo la Cartelería Digital mejora la percepción de tu imagen de marca, aumenta la efectividad de tu mensaje y cómo esto finalmente se traduce en el crecimiento de tu negocio. Por favor, no dudes en comentarme tus impresiones y solicitar ayuda en cada etapa del proceso, comenzando por la cotización y la instalación de las pantallas si no las tienes, hasta después de la recepción de tu producto, en el servicio postventa**
 
