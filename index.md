@@ -48,7 +48,7 @@ Actualmente los televisores de pantalla plana se pueden encontrar a precios sorp
 
 ## VALORES
 
-Una solución de este tipo para grandes tiendas puede fácilmente llegar a costar varios millones de pesos si se contrata a través de una agencia publicitaria o una productora audiovisual. Actualmente, los avances tecnológicos permiten que una sola persona con capacidades  multidisciplinarias técnicas y artísticas pueda ofrecer este servicio de manera independiente a una fracción de ese costo.
+Hasta hace muy poco tiempo, servicios de este tipo sólo se podían contratar a través de agencias publicitarias o productoras audiovisuales, los que fácilmente pueden llegar a costar varios millones de pesos. Actualmente, los avances tecnológicos permiten que una sola persona, con la combinación apropiada de capacidades técnicas y artísticas, pueda ofrecer este servicio de manera independiente a una fracción de dicho costo.
 
 100 lucas algo autoadministrable... ultra basico en html5
 
