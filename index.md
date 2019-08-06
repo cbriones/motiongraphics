@@ -9,13 +9,13 @@ width="160" height="90" frameborder="0" ></iframe>
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
 width="160" height="90" frameborder="0" ></iframe>
 
-La Cartelería Digital es una de las herramientas más eficaces para transmitir mensajes que cautivan a tu cliente ideal y aumentan tus ventas.
+La Cartelería Digital es una de las herramientas más eficaces para transmitir mensajes que cautiven a tu cliente ideal y aumentan tus ventas.
 
-Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento en alta definición permiten reproducciones en proyectores y pantallas de grandes dimensiones con las que puedes darle vida y luminosidad a tus espacios y al mismo tiempo modernizar tu imagen de marca.
+Su versatilidad y atractivo supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento en alta definición permiten reproducciones en proyectores y pantallas de grandes dimensiones con las que puedes darle vida y luminosidad a tus espacios y al mismo tiempo modernizar tu imagen de marca.{meter imagenes de locales cool}
 
-Además, estas animaciones son herramientas valiosas para aumentar la presencia de tu negocio en redes sociales, pues sirven como soporte para promocionar tus ofertas entre tus seguidores o para contratar publicidad pagada en Internet. Su atractivo visual aumenta el nivel de conocimiento y recordación de tu marca.
+Además, estas animaciones son herramientas valiosas para aumentar la presencia de tu negocio en redes sociales, pues sirven como soporte para promocionar tus ofertas entre tus seguidores o para contratar publicidad pagada en Internet. Su atractivo visual aumenta el nivel de conocimiento y recordación de tu marca.{meter imágenes de redes sociales}
 
-Finalmente, la alta definición de estos videos permite exhibir mensajes en pantallas gigantes de exterior, las que se pueden ver cada día con mayor frecuencia en centros comerciales, avenidas principales y toda clase de espacios públicos de alta concurrencia. 
+Finalmente, la alta definición de estos videos permite exhibir mensajes en pantallas gigantes de exterior, las que se pueden ver cada día con mayor frecuencia en centros comerciales, avenidas principales y toda clase de espacios públicos de alta concurrencia. {meter imágenes de billboards públicos}
 
 ## ¿CÓMO FUNCIONA?
 * Usa la galería como punto de partida para que te inspires y elijas una o más animaciones que se adapten a tu negocio. Si ya tienes algo en mente, puedes crear bosquejos o recopilar links de imágenes y videos que sirvan de ejemplo.
