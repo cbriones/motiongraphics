@@ -15,10 +15,10 @@ La Cartelería Digital es una de las herramientas más eficaces para transmitir 
 Su versatilidad supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento en alta definición permiten reproducciones en proyectores y pantallas de grandes dimensiones con las que puedes darle nueva vida y luminosidad a tus espacios al tiempo que actualizas tu imagen de marca.{meter imagenes de locales cool}
 
 #### EN REDES SOCIALES
-Además, estas animaciones son herramientas valiosas para aumentar la presencia de tu negocio en redes sociales, pues son el soporte ideal para promocionar tus ofertas entre tus seguidores o para contratar publicidad en Internet. Su atractivo visual aumenta el nivel de conocimiento y recordación de tu marca.{meter imágenes de redes sociales}
+Estas animaciones son herramientas valiosas para aumentar la presencia de tu negocio en redes sociales, pues son el soporte ideal para promocionar tus ofertas entre tus seguidores o para contratar publicidad en Internet. Su atractivo visual aumenta el nivel de conocimiento y recordación de tu marca.{meter imágenes de redes sociales}
 
 #### EN ESPACIOS PÚBLICOS
-Finalmente, la alta definición de estos videos permite exhibir mensajes en pantallas gigantes de exterior, las que se ven cada día con mayor frecuencia en centros comerciales, avenidas principales y toda clase de espacios públicos de alta concurrencia. {meter imágenes de billboards públicos}
+La alta definición de estos videos permite exhibir mensajes en pantallas gigantes de exterior, las que se ven cada día con mayor frecuencia en centros comerciales, avenidas principales y toda clase de espacios públicos de alta concurrencia. {meter imágenes de billboards públicos}
 
 # ¿CÓMO FUNCIONA?
 * Usa la [GALERÍA](#galería) como punto de partida para que te inspires y elijas una o más animaciones que se adapten a tu negocio. Si ya tienes algo en mente, puedes crear bosquejos o recopilar links de imágenes y videos que sirvan de ejemplo.
