@@ -53,7 +53,7 @@ Actualmente los televisores de pantalla plana se pueden encontrar a precios sorp
 
 # VALORES
 
-Hasta ahora, sólo a través de grandes agencias publicitarias y productoras audiovisuales se podían contratar este tipo de servicios, los que al día de hoy fácilmente pueden llegar a costar varios millones de pesos, lo que lo deja al alcance de grandes empresas del retail y otras multinacionales.
+Hasta ahora, sólo a través de agencias publicitarias y productoras audiovisuales se podían contratar este tipo de servicios, los que al día de hoy pueden costar varios millones de pesos. Estos altos costos hacen que estos servicios aún se asocien principalmente a grandes tiendas del retail, cadenas transnacionales de comida rápida y a la publicidad en televisión.
 
 Los avances de la tecnología permiten hoy que una sola persona, con la correcta combinación de capacidades técnicas y artísticas, pueda ofrecer este servicio de manera independiente a una fracción de dicho costo.
 
@@ -67,6 +67,6 @@ Agregar que tarifas van a subir al doble, excepto para los que contraten servici
 
 (cinematografía, diseño, dibujo, etc) pero, están las opciones pre establecidas.
 
-> **Tengo un especial interés en ver cómo la Cartelería Digital mejora la percepción de tu imagen de marca, aumenta la efectividad de tus mensajes y cómo esto se traduce en el crecimiento de tu negocio. No dudes en comentarme tus impresiones y solicitar orientación en cada etapa del proceso, lo que incluye los períodos de pre y postventa.**
+> **Tengo un especial interés en ver cómo la Cartelería Digital mejora la percepción de tu imagen de marca, aumenta la efectividad de tus mensajes y cómo esto finalmente repercute en el crecimiento de tu negocio. No dudes en comentarme tus impresiones y solicitar orientación en cada etapa del proceso, incluyendo pre y postventa.**
 
 ![catGif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
