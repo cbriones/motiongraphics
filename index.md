@@ -37,7 +37,7 @@ La situación ideal para comenzar a disfrutar de tu Cartelería Digital en el me
 
 Para optimizar la función del reproductor multimedia, he implementado una solución para este propósito. Se trata de un dispositivo discreto y de bajo consumo (es más pequeño que un teléfono móvil), es básicamente un computador en miniatura que funciona de manera automática al ser conectado a una pantalla. Para cambiar la animación, simplemente se carga un nuevo video en su memoria USB.
 
-En el corto plazo, usando este mismo dispositivo también podrás optar a la posibilidad de programar su contenido de manera remota vía Internet, permitiendo además actualizaciones automáticas en función del horario, el día de la semana y los cambios de temporada. Este dispositivo tiene un valor comercial de $87.000, pero lo puedes obtener a un precio de lanzamiento de $57.000.
+En el corto plazo, usando este mismo dispositivo podrás optar a la opción de programar su contenido de manera remota vía Internet, permitiendo además actualizaciones automáticas en función del horario, el día de la semana y los cambios de temporada. Este dispositivo tiene un valor comercial de $87.000, pero lo puedes obtener a un precio de lanzamiento de $57.000.
 
 Si de todas formas quieres reducir este costo, siempre podrás usar un notebook o tablet como reproductor multimedia, aunque al poco andar es posible que esta alternativa no te resulte práctica ni mucho menos elegante.
 
