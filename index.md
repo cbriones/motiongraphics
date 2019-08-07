@@ -53,7 +53,7 @@ Actualmente los televisores de pantalla plana se pueden encontrar a precios sorp
 
 # VALORES
 
-Hasta ahora, sólo a través de agencias publicitarias y productoras audiovisuales se podían contratar este tipo de servicios, los que al día de hoy pueden costar varios millones de pesos. Estos altos costos hacen que estos servicios aún se asocien principalmente a grandes tiendas del retail, cadenas transnacionales de comida rápida y a la publicidad en televisión.
+Hasta ahora, sólo a través de agencias publicitarias y productoras audiovisuales se podían contratar este tipo de servicios, los que al día de hoy pueden costar varios millones de pesos. Estos altos costos hacen que estos servicios se asocien principalmente a grandes tiendas del retail, cadenas transnacionales de comida y a la publicidad en televisión.
 
 Los avances de la tecnología permiten hoy que una sola persona, con la correcta combinación de capacidades técnicas y artísticas, pueda ofrecer este servicio de manera independiente a una fracción de dicho costo.
 
