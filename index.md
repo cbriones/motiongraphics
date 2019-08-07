@@ -43,7 +43,7 @@ En el corto plazo, usando este mismo dispositivo podrás optar a la opción de p
 
 Si de todas formas quieres reducir este costo inicial, siempre podrás usar un notebook o tablet como reproductor multimedia, aunque al poco andar es posible que esta alternativa no te resulte práctica ni mucho menos elegante.
 
-#### DE LAS PANTALLAS
+#### PANTALLAS
 Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. No es difícil encontrar ofertas de televisores nuevos, de grandes dimensiones (más de 50") y de muy alta definición (4K, el estándar cinematográfico actual) por menos de 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente eficaces—pueden encontrarse a precios mucho más bajos. Lo importante es que cualquier televisor con entrada HDMI es compatible con la Cartelería Digital, sin importar su tamaño o antigüedad.
 
 ## VALORES
