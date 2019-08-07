@@ -62,3 +62,4 @@ Agregar que tarifas van a subir al doble, excepto para los que contraten servici
 
 > **Estoy muy interesado en ver cómo la Cartelería Digital mejora la percepción de tu imagen de marca, aumenta la efectividad de tu mensaje y cómo esto finalmente se traduce en el crecimiento de tu negocio. Por favor, no dudes en comentarme tus impresiones y solicitar ayuda en cada etapa del proceso, comenzando por despejar tus dudas antes de tomar una decisión, hasta después de la recepción de tu producto, durante el servicio postventa.**
 
+![catGif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
