@@ -44,7 +44,7 @@ La situación ideal para comenzar a operar tu Cartelería Digital en el menor ti
 Para optimizar la función del reproductor multimedia, pongo a tu disposición un computador en miniatura configurado especialmente para este propósito. Se trata de un dispositivo de bajo consumo y más pequeño que un teléfono móvil, que funciona de manera automática al ser conectado a una pantalla. Las animaciones se cargan simplemente usando una memoria USB o pendrive.
 
 ##### CONTROL EN LA NUBE
-En el corto plazo, usando este mismo dispositivo podrás optar a la opción de controlar su contenido de manera remota vía Internet, permitiendo programarlo en función del horario, el día de la semana y los cambios de temporada.
+En el corto plazo, usando este mismo dispositivo podrás optar a la opción de manejar el contenido de manera remota vía Internet, pudiendo ser programado en función del horario, el día de la semana, los cambios de temporada, etc.
 
 Este dispositivo tiene un valor comercial de $87.000, pero lo puedes obtener a un precio de lanzamiento de $57.000. Si de todas formas quieres reducir este costo inicial, siempre podrás usar un notebook o tablet como reproductor multimedia, aunque al poco andar es muy probable que esta alternativa no te resulte práctica ni mucho menos elegante.
 
