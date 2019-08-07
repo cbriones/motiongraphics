@@ -35,6 +35,7 @@ Finalmente, la alta definición de estos videos permite exhibir mensajes en pant
 ## EQUIPAMIENTO
 La situación ideal para comenzar a disfrutar de tu Cartelería Digital en el menor tiempo posible, supone que ya dispones de al menos un televisor de pantalla plana en tu negocio y un reproductor multimedia (este último puede ser un notebook o tablet con potencia suficiente para reproducir videos en alta definición).
 
+#### REPRODUCTOR MULTIMEDIA
 Para optimizar la función del reproductor multimedia, he implementado una solución para este propósito. Se trata de un dispositivo discreto y de bajo consumo (es más pequeño que un teléfono móvil), es básicamente un computador en miniatura que funciona de manera automática al ser conectado a una pantalla. Para cambiar la animación, simplemente se carga un nuevo video en su memoria USB.
 
 En el corto plazo, usando este mismo dispositivo podrás optar a la opción de programar su contenido de manera remota vía Internet, permitiendo además actualizaciones automáticas en función del horario, el día de la semana y los cambios de temporada. Este dispositivo tiene un valor comercial de $87.000, pero lo puedes obtener a un precio de lanzamiento de $57.000.
