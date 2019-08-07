@@ -32,10 +32,10 @@ Finalmente, la alta definición de estos videos permite exhibir mensajes en pant
 
 > **El producto final consiste en un archivo de video en alta definición, el que podrás descargar y publicar con total libertad.**
 
-## EQUIPAMIENTO
+# EQUIPAMIENTO
 La situación ideal para comenzar a operar tu Cartelería Digital en el menor tiempo posible, supone que ya dispones de al menos un televisor de pantalla plana en tu negocio y un reproductor multimedia (este último puede ser un notebook o tablet con potencia suficiente para reproducir videos en alta definición).
 
-#### REPRODUCTOR MULTIMEDIA
+### REPRODUCTOR MULTIMEDIA
 Para optimizar la función del reproductor multimedia, he implementado una solución para este propósito. Se trata de un dispositivo discreto y de bajo consumo (es más pequeño que un teléfono móvil), es básicamente un computador en miniatura que funciona de manera automática al ser conectado a una pantalla. Para cambiar la animación, simplemente se carga un nuevo video en su memoria USB.
 
 ##### CONTROL EN LA NUBE
@@ -43,10 +43,10 @@ En el corto plazo, usando este mismo dispositivo podrás optar a la opción de p
 
 Si de todas formas quieres reducir este costo inicial, siempre podrás usar un notebook o tablet como reproductor multimedia, aunque al poco andar es posible que esta alternativa no te resulte práctica ni mucho menos elegante.
 
-#### PANTALLAS
+### PANTALLAS
 Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. No es difícil encontrar ofertas de televisores nuevos, de grandes dimensiones (más de 50") y de muy alta definición (4K, el estándar cinematográfico actual) por menos de 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente eficaces—pueden encontrarse a precios mucho más bajos. Lo importante es que cualquier televisor con entrada HDMI es compatible con la Cartelería Digital, sin importar su tamaño o antigüedad.
 
-## VALORES
+# VALORES
 
 Hasta ahora, sólo a través de grandes agencias publicitarias y productoras audiovisuales se podían contratar este tipo de servicios, los que fácilmente pueden llegar a costar varios millones de pesos. Los avances tecnológicos permiten hoy que una sola persona, con la combinación apropiada de capacidades técnicas y artísticas, pueda ofrecer este servicio de manera independiente a una fracción de dicho costo.
 
