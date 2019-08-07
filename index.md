@@ -1,5 +1,6 @@
 >La atracción hacia el movimiento es una inclinación no sólo instintiva: es un acto reflejo. Por esta razón la animación digital consigue captar la atención de una forma prácticamente irresistible. 
->Explora las posibilidades que ofrece esta tecnología en esta galería e inspírate para comenzar a producir tu próximo proyecto publicitario.
+
+Explora en esta galería las posibilidades que ofrece esta tecnología e inspírate para comenzar a producir tu próximo proyecto publicitario.
 
 # GALERÍA
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
