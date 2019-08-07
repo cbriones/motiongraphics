@@ -48,7 +48,9 @@ Actualmente los televisores de pantalla plana se pueden encontrar a precios sorp
 
 # VALORES
 
-Hasta ahora, sólo a través de grandes agencias publicitarias y productoras audiovisuales se podían contratar este tipo de servicios, los que al día de hoy fácilmente pueden llegar a costar varios millones de pesos. Los avances tecnológicos permiten hoy que una sola persona, con la combinación apropiada de capacidades técnicas y artísticas, pueda ofrecer este servicio de manera independiente a una fracción de dicho costo.
+Hasta ahora, sólo a través de grandes agencias publicitarias y productoras audiovisuales se podían contratar este tipo de servicios, los que al día de hoy fácilmente pueden llegar a costar varios millones de pesos. 
+
+Los avances tecnológicos permiten hoy que una sola persona, con la combinación apropiada de capacidades técnicas y artísticas, pueda ofrecer este servicio de manera independiente a una fracción de dicho costo.
 
 100 lucas algo autoadministrable... ultra basico en html5
 
