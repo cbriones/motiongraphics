@@ -29,7 +29,7 @@ La alta definición de estos videos permite exhibir mensajes en pantallas gigant
 
 * Evalúas las propuestas y eventualmente confirmas la puesta en marcha del proyecto.
 
-* Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja resolución. Si quedas conforme, transfieres el monto acordado, momento a partir del cual se genera la versión final de tu video en alta resolución, que quedará disponible para ser descargado, finalizando así el proceso de forma exitosa.
+* Dentro de los plazos acordados recibes una **_vista previa_** de la animación en baja resolución. Si quedas conforme, transfieres el monto acordado, momento a partir del cual se genera la versión final de tu video en alta resolución, el que quedará disponible para ser descargado, finalizando así el proceso de forma exitosa.
 
 * Si no quedas totalmente satisfecho con la **_vista previa_**, analizamos los cambios que se deban hacer para volver al punto anterior tantas veces como sea necesario hasta finalizar el proceso exitosamente.
 
