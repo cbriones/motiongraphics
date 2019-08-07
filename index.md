@@ -8,6 +8,7 @@ width="160" height="90" frameborder="0" ></iframe>
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
 width="160" height="90" frameborder="0" ></iframe>
 
+# USOS
 La Cartelería Digital es una de las herramientas más eficaces para transmitir mensajes que cautivan a tu cliente ideal y aumentan tus ventas.
 
 Su versatilidad supera ampliamente a la impresión gráfica tradicional. Las imágenes en movimiento en alta definición permiten reproducciones en proyectores y pantallas de grandes dimensiones con las que puedes darle nueva vida y luminosidad a tus espacios al tiempo que actualizas tu imagen de marca.{meter imagenes de locales cool}
