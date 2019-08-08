@@ -7,7 +7,9 @@ Explora en esta galería las posibilidades que ofrece esta tecnología e inspír
 width="160" height="90" frameborder="0" ></iframe>
 <iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
 width="160" height="90" frameborder="0" ></iframe>
-
+### NIVEL BÁSICO (entre $40.000 y 100.000)
+### NIVEL MEDIO (entre 100 y 200
+### NIVEL AVANZADO (desde 200)
 # USOS
 La Cartelería Digital es una de las herramientas más eficaces para transmitir mensajes que cautivan a tu cliente ideal y aumentan tus ventas.
 
