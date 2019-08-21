@@ -40,15 +40,16 @@ La alta definición de estos videos permite exhibir mensajes en pantallas gigant
 > **El producto final consiste en un archivo de video en alta definición, el que podrás descargar y publicar con total libertad.**
 
 # EQUIPAMIENTO
-La situación ideal para comenzar a operar tu Cartelería Digital en el menor tiempo posible, supone que ya dispones de al menos un televisor de pantalla plana en tu negocio y un reproductor multimedia (este último puede ser un notebook o tablet con potencia suficiente para reproducir videos en alta definición).
+La situación ideal para comenzar a operar tu Cartelería Digital en el menor tiempo posible, supone que ya dispones de al menos un televisor de pantalla plana en tu negocio y un reproductor multimedia
+En algunos _smart TVs_, sobre todo los más nuevos, la función de reproducción multimedia viene incorporada. Si tu TV no cuenta con esta función, también está la opción de usar un notebook o tablet con potencia suficiente para reproducir videos en alta definición aunque con desventajas,las que se comentan a continuación.
 
 ### REPRODUCTOR MULTIMEDIA
-Para optimizar la función del reproductor multimedia, pongo a tu disposición un computador en miniatura configurado especialmente para este propósito. Se trata de un dispositivo de bajo consumo y más pequeño que un teléfono móvil, que funciona de manera automática al ser conectado a una pantalla. Las animaciones se cargan simplemente usando una memoria USB o pendrive.
+Para optimizar la función del reproductor multimedia, armé y configuré un computador en miniatura especialmente para este propósito. Su consumo eléctrico es mínimo y es más pequeño que un teléfono móvil, lo que permite instalarlo fácil y discretamente en todo tipo de situaciones. Además, funciona de manera automática al ser conectado a una pantalla por lo que la rutina diaria consiste en encender y apagar el sistema usando un simple interruptor. Las animaciones se cargan simplemente usando una memoria USB o pendrive.
+
+Este dispositivo tiene un valor comercial de $79.000, pero hasta la semana del 1ero de septiembre se puede obtener a un precio de lanzamiento de $57.000. Si de todas formas quieres reducir este costo inicial para probar el sistema, siempre podrás usar un notebook o tablet que ya no uses como reproductor multimedia, aunque al poco andar es muy probable que esta alternativa no te resulte práctica ni mucho menos elegante.
 
 ##### CONTROL EN LA NUBE
 En el corto plazo, usando este mismo dispositivo podrás optar a la opción de manejar el contenido de manera remota vía Internet, pudiendo ser programado en función del horario, el día de la semana, los cambios de temporada, etc.
-
-Este dispositivo tiene un valor comercial de $87.000, pero lo puedes obtener a un precio de lanzamiento de $57.000. Si de todas formas quieres reducir este costo inicial, siempre podrás usar un notebook o tablet como reproductor multimedia, aunque al poco andar es muy probable que esta alternativa no te resulte práctica ni mucho menos elegante.
 
 ### PANTALLAS
 Actualmente los televisores de pantalla plana se pueden encontrar a precios sorprendentemente bajos en relación a su calidad. No es difícil encontrar ofertas de televisores nuevos, de grandes dimensiones (más de 50") y de muy alta definición (4K, el estándar cinematográfico actual) por menos de 200 mil pesos. Dispositivos con menores prestaciones—aunque igualmente eficaces—pueden encontrarse a precios mucho más bajos. Lo importante es que cualquier televisor con entrada HDMI es compatible con la Cartelería Digital, sin importar su tamaño o antigüedad.
